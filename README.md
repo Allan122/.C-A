@@ -39,7 +39,7 @@
 **Conclusion: Accurate and comprehensive analysis is necessary to understand population trends and avoid fueling divisive narratives.**
 
 
-
+<br>
 
 ### Mains PYQ: 
 **Q Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled, and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable? (UPSC IAS/2016)**
