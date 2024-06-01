@@ -807,3 +807,316 @@ Which of the statements given above is/are correct?
 
 <br>
 
+**Blaming court vacation for pendency misses the real problem**
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Judiciary
+### Mains level: Present Challenges related to Case Pendencies
+
+**Reports on Case Pendencies:**
+According to the **“India Justice Report”**, as of June 2020, cases remain pending for an average of three years in subordinate courts and five years in high courts, highlighting the extensive backlog.
+
+### Issues and Present Challenges in the Indian Judiciary
+
+#### Overburdened Judiciary
+- **High Case Load:** Courts handle a massive backlog of cases, leading to significant delays in justice delivery.
+- **Slow Resolution:** Long waiting times for case resolutions, impacting public trust in the legal system.
+
+#### Infrastructure Deficits
+- **Inadequate Facilities:** Many courts lack sufficient physical infrastructure, such as courtrooms, offices, and basic amenities.
+- **Technological Gaps:** Insufficient adoption of modern technology to streamline judicial processes and case management.
+
+#### Quality Deficits
+- **Lack of Training:** Inadequate training and continuous education for judges and court staff.
+- **Resource Constraints:** Limited access to necessary legal resources and research materials.
+
+#### Vacancy Crisis
+- **Unfilled Positions:** A significant number of judicial vacancies at all levels, from lower courts to the Supreme Court.
+- **Appointment Delays:** Delays in the appointment process further exacerbate the burden on the existing judicial workforce.
+
+**These challenges collectively hinder the efficiency, effectiveness, and public perception of the judiciary in India.**
+
+<br>
+
+### What Can Be Done?
+
+#### Address Vacancies
+- **Fill Judicial Positions:** Ensure all vacant judicial positions at all levels are filled promptly to reduce the workload on existing judges.
+
+#### Invest in Infrastructure
+- **Upgrade Facilities:** Improve physical infrastructure, such as courtrooms and offices, to accommodate more cases and judges.
+- **Adopt Technology:** Implement modern technology for case management and streamline judicial processes to enhance efficiency.
+
+#### Prioritize Judicial Reform
+- **Reform Appointment Process:** Make the judicial appointment process more transparent and efficient.
+- **Enhance Training:** Provide continuous training for judges and court staff to improve the quality of justice delivery.
+- **Implement Fast-Track Courts:** Set up more fast-track courts to handle specific types of cases swiftly.
+
+### Conclusion
+Focusing on these actionable steps will help address the root causes of case pendency and improve the overall efficiency of the judiciary.
+
+<br>
+
+### Critically Examine the Supreme Court’s Judgement on the National Judicial Appointments Commission Act, 2014
+
+The Supreme Court's judgement on the National Judicial Appointments Commission (NJAC) Act, 2014, is a landmark decision that has significant implications for the appointment of judges in India's higher judiciary. Here is a critical examination of the judgement:
+
+#### Background
+- **NJAC Act, 2014:** The NJAC Act aimed to replace the collegium system of judicial appointments with a commission comprising members from the judiciary, the executive, and eminent persons.
+- **Purpose:** The Act was intended to bring transparency and accountability to the process of appointing judges to the Supreme Court and High Courts.
+
+#### Supreme Court’s Judgement
+- **Verdict:** In October 2015, a five-judge Constitution Bench of the Supreme Court struck down the NJAC Act and the 99th Constitutional Amendment, declaring them unconstitutional and void.
+- **Reasoning:** The Court held that the NJAC Act violated the basic structure of the Constitution, particularly the independence of the judiciary.
+
+#### Key Points of the Judgement
+1. **Independence of the Judiciary:**
+   - The Court emphasized that judicial independence is a basic feature of the Constitution, essential for maintaining the rule of law and protecting individual rights.
+   - Inclusion of the Law Minister and two eminent persons in the NJAC was seen as compromising this independence by allowing potential executive interference.
+
+2. **Basic Structure Doctrine:**
+   - The judgement reiterated the importance of the basic structure doctrine, which protects fundamental constitutional principles from being altered by legislative amendments.
+   - It was argued that the NJAC Act infringed upon the basic structure by undermining judicial primacy in appointments.
+
+3. **Collegium System:**
+   - The Court acknowledged the flaws in the collegium system but maintained that it was preferable to the NJAC model for preserving judicial independence.
+   - The judgement called for reforms within the collegium system to enhance transparency and accountability.
+
+#### Criticism of the Judgement
+- **Lack of Transparency:** Critics argue that the collegium system is opaque and lacks accountability, and the judgement missed an opportunity to establish a more transparent mechanism.
+- **Judicial Overreach:** Some view the judgement as judicial overreach, asserting that the judiciary protected its own interests by striking down a law passed by Parliament.
+- **Reform Needs:** While the Court recognized the need for reforms, the judgement did not provide a concrete alternative to address the issues plaguing the collegium system.
+
+#### Impact and Way Forward
+- **Status Quo:** The judgement resulted in the continuation of the collegium system, with calls for its improvement.
+- **Judicial Reforms:** The decision highlighted the urgent need for judicial reforms to enhance the collegium system's transparency, accountability, and efficiency.
+- **Collaborative Approach:** A balanced approach, involving both the judiciary and the executive, is necessary to create a robust and transparent judicial appointment process.
+
+### Conclusion
+The Supreme Court's judgement on the NJAC Act, 2014, reaffirmed the principle of judicial independence but also underscored the need for reforms within the existing system. The decision remains a crucial reference point in the ongoing debate over judicial appointments and the balance of power between the judiciary and the executive in India.
+
+<br>
+
+**KAZA Summit 2024: Delegates renew calls to leave CITES**
+
+### From UPSC perspective, the following things are important:
+### Prelims level: About CITES;
+### Mains level: The Kaza Summit and its objectives.
+
+Why in the news?
+At the KAZA 2024 Summit in Livingstone, Zambia, delegates reiterated the urge for member states to withdraw from CITES because they seek approval to trade their plentiful ivory and wildlife items.
+
+About the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES):
+It is an international agreement adopted in 1973 (entered into force in 1975) between governments.
+Aim: To ensure that international trade in wild animals and plants does not threaten their survival.
+Headquarters: Geneva, Switzerland.
+Although CITES is legally binding on the Parties – in other words, they have to implement the Convention–it does not take the place of national laws.
+Representatives of CITES nations meet every two to three years at a Conference of the Parties (COP) to review progress and adjust the lists of protected species, which are grouped into three categories with different levels of protection:
+Appendix I: Includes the world’s most endangered plants and animals, such as tigers and gorillas. International commercial trade in these species, or even parts of them, is completely banned, except in rare cases such as scientific research.
+Appendix II: Contains species like corals that are not yet threatened with extinction, but which could become threatened if unlimited trade were allowed. Also included are “look-alike” species that closely resemble those already on the list for conservation reasons. Plants and animals in this category can be traded internationally, but there are strict rules.
+Appendix III: Species whose trade is only regulated within a specific country can be placed on Appendix III if that country requires cooperation from other nations to help prevent exploitation.
+
+At the KAZA (Kavango-Zambezi Transfrontier Conservation Area) Summit 2024, delegates have renewed their calls for member countries to consider leaving CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora). Here’s what happened:
+
+#### Key Points:
+
+1. **Frustration with CITES:** 
+   - Delegates expressed frustration over CITES regulations, which they believe restrict their ability to manage wildlife and benefit economically from their natural resources.
+
+2. **Economic Impact:** 
+   - Many delegates argued that CITES rules limit sustainable use of wildlife, affecting tourism and local economies that depend on wildlife resources.
+
+3. **Sovereignty Concerns:** 
+   - There were strong sentiments about the need for member countries to have more control over their own wildlife management policies without external interference.
+
+4. **Call for Independence:** 
+   - The delegates emphasized the importance of creating policies that reflect the unique needs and circumstances of the KAZA region, rather than being constrained by global regulations.
+
+#### What’s Next?
+
+The discussion at the summit indicates a growing desire among KAZA member countries to re-evaluate their participation in CITES and consider alternative approaches to wildlife conservation and economic development.
+
+<br>
+
+# Mains PYQ:
+**Q How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in the conservation of flora and fauna? (250 Words, 15 Marks) (UPSC IAS/2018)**
+
+### How Does Biodiversity Vary in India?
+
+India is one of the 17 megadiverse countries in the world, hosting a variety of ecosystems, species, and genetic diversity. The country's biodiversity varies significantly across its geographical regions:
+
+#### Geographical Variations
+1. **Himalayan Region:**
+   - Rich in alpine flora and fauna.
+   - Hosts species like snow leopards, Himalayan tahr, and a variety of rhododendrons.
+
+2. **Indo-Gangetic Plains:**
+   - Characterized by fertile plains and diverse agricultural biodiversity.
+   - Home to species like Indian rhinoceros, Bengal tiger, and several migratory birds.
+
+3. **Western Ghats:**
+   - One of the eight "hottest hotspots" of biodiversity.
+   - Contains numerous endemic species like the Nilgiri tahr, lion-tailed macaque, and various amphibians.
+
+4. **Deccan Plateau:**
+   - Dominated by dry deciduous forests.
+   - Hosts species such as the Indian elephant, gaur, and several endemic plants.
+
+5. **Coastal and Marine Ecosystems:**
+   - Rich in mangroves, coral reefs, and marine biodiversity.
+   - Home to species like the dugong, Olive Ridley turtles, and various fish species.
+
+6. **Northeast India:**
+   - Known for its high species richness and endemism.
+   - Contains species like the Hoolock gibbon, clouded leopard, and numerous orchids.
+
+### How is the Biological Diversity Act, 2002 Helpful in the Conservation of Flora and Fauna?
+
+The Biological Diversity Act, 2002, is a significant legislative framework aimed at conserving India's biological diversity, promoting sustainable use of its components, and ensuring fair and equitable sharing of benefits arising from the use of biological resources and associated traditional knowledge.
+
+#### Key Provisions and Their Impact
+1. **Biodiversity Management Committees (BMCs):**
+   - Established at the local level to promote conservation, sustainable use, and documentation of biological diversity.
+   - Involves local communities in the decision-making process, ensuring their participation and benefit-sharing.
+
+2. **National Biodiversity Authority (NBA):**
+   - Regulates access to biological resources and traditional knowledge.
+   - Ensures that benefits from the use of biological resources are shared equitably with the local communities.
+
+3. **State Biodiversity Boards (SBBs):**
+   - Advise state governments on matters related to biodiversity conservation and management.
+   - Facilitate the implementation of the Act at the state level.
+
+4. **People’s Biodiversity Registers (PBRs):**
+   - Document local biodiversity, traditional knowledge, and practices.
+   - Serve as a tool for conservation planning and benefit-sharing.
+
+5. **Regulation of Access and Benefit Sharing (ABS):**
+   - Ensures that biological resources are accessed sustainably and that benefits derived from their use are shared fairly.
+   - Prevents biopiracy and ensures that local communities benefit from their traditional knowledge.
+
+6. **Conservation Efforts:**
+   - Promotes in-situ conservation through protected areas, community reserves, and conservation reserves.
+   - Encourages ex-situ conservation through botanical gardens, gene banks, and seed banks.
+
+### Conclusion
+
+India's biodiversity is immensely rich and varied, reflecting its diverse geography and climatic conditions. The Biological Diversity Act, 2002, plays a crucial role in conserving this biodiversity by involving local communities, regulating access, and ensuring equitable benefit-sharing. Its implementation is vital for sustaining India's unique biological heritage and ensuring the well-being of its flora and fauna.
+
+<br>
+
+**TOBACCO: THE SILENT KILLER**
+
+### From UPSC perspective, the following things are important:
+### Prelims level: Reports on Tobacco Consumption in India
+### Mains level: Implementing and Catching Up with Industry
+
+**Why in the News?**
+Tobacco is a leading preventable cause of disease which affects nearly 26 crore Indians and 60 lakh industry workers, posing significant health risks.
+
+### Reports on Tobacco Consumption in India
+- According to the Global Adult Tobacco Survey (GATS), there is a general decline in tobacco use, except for an increase in women between 2015-2016 and 2019-2021. (above 15 years)
+- According to the Global Youth Tobacco Survey (GYTS), tobacco use among students aged 13-15 years indicates a reduction in tobacco use in this demographic.
+- The National Family Health Survey (NFHS), which captures data on tobacco use in people above 15 years of age, aligns with the GATS findings, showing a decrease in tobacco use except among women.
+
+**What is the WHO Framework Convention on Tobacco Control (FCTC)?**
+- The WHO Framework Convention on Tobacco Control (FCTC) is an international treaty adopted by the World Health Organization (WHO) in 2003. It is a legally binding treaty.
+- It means that countries that have ratified it are obligated to implement the measures outlined in the convention within their national jurisdictions.
+- It addresses the global health risks associated with tobacco use and provides a comprehensive framework for governments and organizations to implement effective tobacco control policies and strategies.
+
+<br>
+
+# Mains question for practice:
+**Q Discuss the various measures undertaken by the Indian government to control tobacco consumption. Evaluate the effectiveness of these measures and suggest improvements. 15M**
+
+Tobacco consumption poses significant public health challenges in India, leading to numerous preventable diseases and deaths. In response, the Indian government has implemented various measures to control tobacco use, aiming to reduce its prevalence and mitigate associated health risks.
+
+### Measures Undertaken by the Indian Government
+
+#### Legislative Measures
+1. **Cigarettes and Other Tobacco Products Act (COTPA), 2003:**
+   - Prohibits smoking in public places.
+   - Bans tobacco advertising, promotion, and sponsorship.
+   - Mandates pictorial warnings on tobacco product packaging.
+   - Restricts the sale of tobacco products to minors and near educational institutions.
+
+2. **Prohibition of Electronic Cigarettes Act, 2019:**
+   - Bans the production, import, sale, distribution, and advertising of electronic cigarettes.
+
+#### Regulatory Measures
+1. **Packaging and Labeling Rules:**
+   - Requires tobacco products to display graphic health warnings covering 85% of the package.
+   - Provides information on the harmful effects of tobacco use.
+
+2. **Tobacco-Free Zones:**
+   - Designates certain areas, such as schools and healthcare facilities, as tobacco-free zones.
+
+3. **Taxation:**
+   - Imposes high taxes on tobacco products to reduce affordability and consumption.
+
+#### Public Awareness and Education
+1. **Anti-Tobacco Campaigns:**
+   - Conducts nationwide awareness campaigns through mass media to educate the public on the dangers of tobacco use.
+
+2. **School Programs:**
+   - Implements educational programs in schools to discourage tobacco use among youth.
+
+#### Health Interventions
+1. **National Tobacco Control Programme (NTCP):**
+   - Provides cessation services, including counseling and medication, to help individuals quit tobacco use.
+   - Trains healthcare providers to offer tobacco cessation support.
+
+2. **MPOWER Initiative:**
+   - A framework by the World Health Organization (WHO) that includes Monitoring, Protecting, Offering help, Warning, Enforcing bans, and Raising taxes.
+
+### Evaluation of Effectiveness
+
+#### Successes
+1. **Reduced Prevalence:**
+   - The National Family Health Survey (NFHS) and Global Adult Tobacco Survey (GATS) indicate a decline in tobacco use among adults and youth.
+
+2. **Increased Awareness:**
+   - Public awareness campaigns have successfully raised knowledge about the harmful effects of tobacco, contributing to a decrease in consumption.
+
+3. **Legislative Impact:**
+   - Implementation of COTPA and the Prohibition of Electronic Cigarettes Act has led to reduced exposure to tobacco advertising and smoking in public places.
+
+#### Challenges
+1. **Enforcement Issues:**
+   - Inconsistent enforcement of tobacco control laws, particularly in rural areas, undermines their effectiveness.
+
+2. **Illicit Trade:**
+   - The availability of smuggled and counterfeit tobacco products hampers regulatory efforts.
+
+3. **Behavioral Factors:**
+   - Deep-rooted cultural acceptance and addiction to tobacco make it difficult to change consumption patterns.
+
+4. **Economic Factors:**
+   - The tobacco industry’s economic significance in some regions poses resistance to stringent control measures.
+
+### Suggested Improvements
+
+1. **Strengthening Enforcement:**
+   - Enhance monitoring and enforcement mechanisms to ensure compliance with tobacco control laws across all regions.
+
+2. **Community Involvement:**
+   - Engage community leaders and local organizations in awareness campaigns and enforcement efforts.
+
+3. **Support for Farmers:**
+   - Provide alternative livelihoods and financial support to tobacco farmers to reduce economic dependence on tobacco cultivation.
+
+4. **Healthcare Integration:**
+   - Integrate tobacco cessation services into primary healthcare to make them more accessible.
+
+5. **Research and Monitoring:**
+   - Conduct regular surveys and research to monitor tobacco use trends and evaluate the effectiveness of control measures.
+
+6. **Taxation Reforms:**
+   - Simplify and increase taxes on all tobacco products uniformly to reduce affordability and consumption further.
+
+### Conclusion
+
+The Indian government has made significant strides in controlling tobacco consumption through a combination of legislative, regulatory, and public health measures. While these efforts have yielded positive results, ongoing challenges require a multifaceted approach, including stronger enforcement, community involvement, and economic support for affected stakeholders. By addressing these areas, India can continue to reduce tobacco use and improve public health outcomes.
+
+<br>
+
