@@ -1005,7 +1005,7 @@ India's biodiversity is immensely rich and varied, reflecting its diverse geogra
 
 <br>
 
-**TOBACCO: THE SILENT KILLER**
+# **TOBACCO: THE SILENT KILLER**
 
 ### From UPSC perspective, the following things are important:
 ### Prelims level: Reports on Tobacco Consumption in India
