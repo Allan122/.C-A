@@ -1566,3 +1566,219 @@ In conclusion, while the lack of food availability is a significant factor, it i
 
 <br>
 
+# Is climate change behind more frequent and severe turbulence faced by aircraft?
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Types of Flight Turbulence and Causes of Flight Turbulence
+### Mains level: Impact of Climate Change on Flight Turbulence
+
+From the UPSC perspective, understanding flight turbulence is essential for both the Prelims and Mains examinations. Here's why:
+
+### Prelims Level:
+1. **Types of Flight Turbulence:**
+   - Candidates may encounter questions related to different types of flight turbulence, such as:
+     - Clear Air Turbulence (CAT)
+     - Convective Turbulence
+     - Mechanical Turbulence
+   - Knowing these types and their characteristics can help in answering related questions accurately.
+
+2. **Causes of Flight Turbulence:**
+   - Questions may be asked about the various factors that contribute to flight turbulence, including:
+     - Atmospheric conditions
+     - Jet streams
+     - Mountain waves
+     - Weather systems like thunderstorms
+   - Understanding these causes can aid in identifying turbulence patterns and predicting its occurrence.
+
+### Mains Level:
+1. **Impact of Climate Change on Flight Turbulence:**
+   - Climate change can affect atmospheric conditions, leading to potential changes in turbulence patterns.
+   - Candidates may be asked to analyze how climate change influences the frequency, intensity, and distribution of flight turbulence.
+   - Understanding this relationship requires knowledge of atmospheric dynamics, weather systems, and climate change principles.
+
+By grasping the types and causes of flight turbulence at the Prelims level and delving deeper into the impact of climate change on turbulence at the Mains level, candidates can develop a comprehensive understanding of this topic, which is relevant not only for aviation but also for broader discussions on climate change and its consequences.
+
+<br>
+
+# Mains PYQ:
+**Q Most of the unusual climatic happenings are explained as an outcome of the El-Nino effect. Do you agree? (UPSC IAS/2014)**
+
+The statement that most unusual climatic happenings are attributed to the El Niño effect is a nuanced one and requires careful consideration.
+
+- El Niño, a climate phenomenon characterized by warmer-than-average sea surface temperatures in the Pacific Ocean, can indeed have significant impacts on global weather patterns. During El Niño events, changes in atmospheric circulation can lead to altered precipitation patterns, droughts, floods, and other extreme weather events in various regions around the world.
+ 
+- However, it would be inaccurate to attribute all unusual climatic happenings solely to the El Niño effect. While El Niño can exacerbate certain weather patterns or contribute to specific climatic anomalies, it is just one of many factors influencing Earth's climate system.
+
+- Other factors, such as atmospheric circulation patterns like the North Atlantic Oscillation (NAO) or the Arctic Oscillation (AO), oceanic phenomena like the Indian Ocean Dipole (IOD), and human-induced climate change, also play significant roles in shaping weather and climate variability.
+
+- Therefore, while El Niño can indeed have substantial impacts on global weather and climate, it would be overly simplistic to attribute all unusual climatic events solely to this phenomenon. A comprehensive understanding of Earth's climate system requires consideration of multiple factors and their complex interactions.
+
+<br>
+
+# Monsoon Croaks Bioblitz: Protecting Kerala’s Frog Species
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Monsoon Croaks Bioblitz, Species mentioned
+
+### Why in the News?
+
+The Centre for Citizen Science and Biodiversity Informatics, Kerala Forest Research Institute (KFRI), organized the event “Monsoon Croaks Bioblitz 2024” to document Kerala’s frog species during the monsoon season. This program aims to cultivate scientific curiosity among the public, raise awareness about frog conservation, and contribute valuable data to global biodiversity databases.
+
+### Key Points:
+
+1. Monsoon Croaks Bioblitz 2024 aims to document Kerala’s frog species during the monsoon season.
+2. The objective is to cultivate scientific curiosity among the public and raise awareness about frog conservation.
+3. Participants of all ages can contribute by uploading frog photographs and sounds via the iNaturalist app.
+4. Data collected during the bioblitz will contribute to the Global Biodiversity Information Facility (GBIF), facilitating biodiversity awareness, habitat conservation, and climate change research.
+5. The survival of frogs, crucial indicators of ecosystem health, faces threats from climate change, habitat loss, and water pollution.
+6. In 2023, the Monsoon Croaks project witnessed enthusiastic participation, with around 200 citizen scientists uploading 1,223 observations, identifying approximately 80 amphibian species.
+
+### GBIF (Global Biodiversity Information Facility):
+
+1. Purpose: Provides free and open access to biodiversity data for research, conservation, and sustainable development.
+2. Establishment and Headquarters: Established in 2001, Copenhagen, Denmark.
+3. Members: Over 40 countries and economies, including government agencies, museums, research institutions, and NGOs.
+4. Mission: Facilitates the digitization and mobilization of biodiversity data, making it accessible and usable for scientific research and policy-making.
+5. Contributions: Supports global assessments such as the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) and the Convention on Biological Diversity (CBD).
+6. Funding: Supported by member countries and economies, international organizations, and private sector partners.
+
+This information is crucial for both prelims and mains as it highlights the importance of biodiversity conservation, citizen science participation, and the role of global initiatives like GBIF in addressing environmental challenges.
+
+<br>
+
+# PYQ:
+**[2015] With reference to an organization known as ‘Birdlife International’ which of the following statements is/are correct?**
+
+It is a Global Partnership of Conservation Organizations.
+The concept of ‘biodiversity hotspots’ originated from this organization.
+It identifies the sites known/referred to as ‘Important Bird and Biodiversity Areas’.
+Select the correct answer using the code given below.
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+### The correct answer is (c) 1 and 3 only.
+
+**Explanation:**
+1. Birdlife International is indeed a global partnership of conservation organizations, making statement 1 correct.
+2. The concept of 'biodiversity hotspots' actually originated from Conservation International, not Birdlife International, so statement 2 is incorrect.
+3. Birdlife International identifies the sites known as 'Important Bird and Biodiversity Areas' (IBAs), which are critical for bird conservation, making statement 3 correct.
+
+<br>
+
+# 299th Birth Anniversary of Ahilyabai Holkar (1725 –1795)
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Ahilyabai Holkar and her contemporaries
+
+The **299th birth anniversary** of **legendary ruler Ahilyabai Holkar** was celebrated on **30th May**.
+
+| Attribute            | Details                                                     |
+|----------------------|-------------------------------------------------------------|
+| Birth                | May 31, 1725; Chaundi village, Ahmednagar district, Maharashtra, India |
+| Family               | Daughter of Mankoji Shinde, a respected Dhangar family member |
+| Education            | Despite societal norms, her father taught her to read and write |
+| Marriage             | Married Khande Rao Holkar, son of Malhar Rao Holkar, in 1733 |
+| Rise to Prominence   | Impressed by her piety and character, Khande Rao married Ahilyabai on the Peshwa’s advice |
+| Leadership           | Took control of Malwa after her husband’s death in 1754      |
+| Reign                | Ruled Malwa from 1767 to 1795                               |
+| Capital              | Maheshwar became the capital of Malwa under her rule        |
+| Administrative Prowess | Known for her administrative acumen                        |
+| Military Strategies  | Personally led armies into battle and defended Malwa against intruders |
+| Cultural Contributions | Established Maheshwar as the seat of the Holkar Dynasty    |
+| Temple Restorations  | Led the reconstruction of Kashi Vishwanath Temple and built Somnath Temple |
+| Economic Development | Promoted the production of Maheshwari Sarees and fostered trade and commerce |
+| Social Inclusion     | Advocated for marginalized communities and mainstreamed their inclusion |
+| Legacy               | Revered as “The Philosopher Queen” by historians like John Keay |
+
+<br>
+
+# Surge in Indian Companies’ External Commercial Borrowings (ECBs)
+
+### From UPSC perspective, the following things are important :
+### Prelims level: External Commercial Borrowings (ECBs)
+
+Indian companies “external commercial borrowings” nearly doubled in FY24, reaching $49.2 billion, according to RBI data.
+
+| Aspect                  | Details                                                                                      |
+|-------------------------|----------------------------------------------------------------------------------------------|
+| Definition              | Loans provided by non-resident lenders in foreign currency to Indian borrowers.              |
+| Usage                   | Widely used by Indian corporations and PSUs to access foreign funds.                          |
+| Instruments Covered     | Commercial bank loans, buyers’ credit, suppliers’ credit, securitized instruments, credit from official export credit agencies, and commercial borrowings from multilateral financial institutions. |
+| Regulation              | Monitored and regulated by the Department of Economic Affairs (DEA) under the Ministry of Finance, Government of India, along with the Reserve Bank of India. |
+| Contribution            | Contributed between 20 and 35% of total capital flows into India in 2012.                     |
+| Recent Changes          | RBI raised ECB limit for infrastructure finance companies from 50% to 75% of owned funds.     |
+| Guideline Changes       | RBI allowed all eligible borrowers to raise ECB up to USD 750 million per financial year under the automatic route (2019). |
+| Utilization of Funds    | 25% of ECB can be used to repay rupee debt; 75% should be allocated for new projects.         |
+| Regulatory Framework    | Governed by the Foreign Exchange Management Act, 1999.                                       |
+| Routes for Raising ECBs | Automatic Route and Approval Route.                                                          |
+| Maturity Period         | ECBs can only be raised for a specific period known as the Minimum Average Maturity Period (MAMP). |
+| Advantages Offered      | ECBs offer substantial funding, longer-term repayment options, lower interest rates compared to domestic borrowing, and access to foreign currency for import needs. |
+
+<br>
+
+# PYQ:
+**[2019] Consider the following statements :**
+
+- Most of India’s external debt is owed by governmental entities.
+- All of India’s external debt is denominated in US dollars.
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) Both 1 and 2
+
+(d) Neither 1 nor 2
+
+### The correct answer is:
+
+**(d) Neither 1 nor 2**
+
+### Sure, here's the explanation:
+
+1. Most of India’s external debt is not owed by governmental entities. In fact, a significant portion of India's external debt is owed by private corporations and other non-governmental entities.
+
+2. All of India’s external debt is not denominated in US dollars. While a considerable portion of India's external debt may be denominated in US dollars due to its status as a global reserve currency, India's external debt portfolio comprises borrowings in various currencies, including but not limited to US dollars.
+
+Therefore, neither statement 1 nor statement 2 is correct.
+
+<br>
+
+# **NIMHANS bags WHO’s Nelson Mandela Award for Health Promotion for 2024**
+
+From a UPSC perspective, the following points are important:
+
+For Prelims:
+1. National Institute of Mental Health and Neuro-Sciences (NIMHANS) is located in Bangalore, India.
+2. NIMHANS is ranked 4th best medical institute in India by the National Institutional Ranking Framework (NIRF).
+3. Nelson Mandela Award for Health Promotion was established in 1995 by the World Health Organization (WHO).
+4. The award recognizes outstanding contributions and achievements in health promotion worldwide.
+5. NIMHANS has been honored with the Nelson Mandela Award for Health Promotion by WHO for 2024.
+
+For Mains:
+1. NIMHANS' history dates back to 1847 when it was founded as the Bangalore Lunatic Asylum and later renamed as the Mental Hospital in 1925.
+2. It was amalgamated with the All India Institute of Mental Health (AIIMH) in 1974 to form NIMHANS.
+3. NIMHANS was declared an Institute of National Importance by an act of parliament in 2012.
+4. The institute operates with academic autonomy prioritizing service, manpower development, and research in mental health and neurosciences.
+5. NIMHANS engages in mental health outreach initiatives, including critiquing mental health reports and collaborating with government agencies for training and counseling.
+6. The Nelson Mandela Award for Health Promotion recognizes innovative approaches, sustainable impact, dedication to health equity, and social justice in health promotion efforts.
+
+These points provide a comprehensive understanding of NIMHANS and its recognition with the Nelson Mandela Award, which can be useful for both Prelims and Mains preparation.
+
+<br>
+
+# PYQ:
+**[2021] We can never obtain peace in the outer world until and unless we obtain peace within ourselves.**
+
+The quote underscores the fundamental connection between personal inner peace and the attainment of peace in the external world. It suggests that cultivating inner peace within oneself is a prerequisite for establishing peace in society and the world at large. This viewpoint emphasizes the significance of individual introspection, self-awareness, and inner harmony in contributing to global peace and harmony. Essentially, the quote advocates for the idea that peace begins from within, and only by fostering peace within ourselves can we hope to create a peaceful and harmonious world.
+
+<br>
+
+# Date - 2 and 3 Remaining Civils daily
