@@ -807,7 +807,7 @@ Which of the statements given above is/are correct?
 
 <br>
 
-**Blaming court vacation for pendency misses the real problem**
+# **Blaming court vacation for pendency misses the real problem**
 
 ![image](https://github.com/Allan122/.C-A/assets/45638226/c410310b-defa-415a-9dff-5cf3a8610a99)
 
@@ -899,7 +899,7 @@ The Supreme Court's judgement on the NJAC Act, 2014, reaffirmed the principle of
 
 <br>
 
-**KAZA Summit 2024: Delegates renew calls to leave CITES**
+# **KAZA Summit 2024: Delegates renew calls to leave CITES**
 
 ### From UPSC perspective, the following things are important:
 ### Prelims level: About CITES;
@@ -1126,7 +1126,7 @@ The Indian government has made significant strides in controlling tobacco consum
 
 # 03-06-2024
 
-**40 Years since Operation Blue Star**
+# **40 Years since Operation Blue Star**
 
 ![image](https://github.com/Allan122/.C-A/assets/45638226/5f2b472f-cf55-4a2a-81e4-8987793f5cd2)
 
@@ -1206,6 +1206,37 @@ The formation of linguistic states has largely strengthened Indian unity by pres
 ### Conclusion
 
 On balance, the linguistic reorganization of states in India has contributed positively to the cause of Indian unity by addressing linguistic and cultural aspirations and ensuring better governance. The process has, however, also introduced new challenges that need to be managed carefully. A continued emphasis on inclusive development, inter-state cooperation, and fostering a national identity alongside regional identities will be crucial for sustaining and enhancing Indian unity in the future.
+
+<br>
+
+# **K-9 Vajra Howitzers and Su-30 MKI Fighter Aircraft Engines**
+
+### From UPSC perspective, the following things are important :
+### Prelims level: K-9 Vajra, Super Sukhoi Project
+
+**About K-9 Vajra Self-Propelled Howitzers:**
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/218b8eb6-f810-429f-a232-cebf50f9e623)
+
+It is a self-propelled howitzer.
+**Technology:** It incorporates technology transferred from South Korean defence major Hanwha Defense based on its K9 Thunder.
+**Development:** The K9 gun has been developed under the ‘Buy Global’ programme of the Defence Procurement Procedure (DPP) where foreign companies are allowed to participate.
+**Features:** The platform boasts all-welded steel armour protection. Initially intended for desert use, it has been deployed in mountainous regions due to the India-China standoff.
+**Winterisation:** To ensure optimal performance in extreme cold conditions, the Army procured winterisation kits for the regiment deployed in mountainous areas.
+
+**About Su-30MKI:**
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/e79c398f-db7f-4cc8-8a71-1ce40c8eac26)
+
+The Sukhoi Su-30MKI is a two-seater, twinjet multirole air superiority fighter. It is built under license by India’s Hindustan Aeronautics Limited (HAL).
+Design: 
+It was designed by Russia’s Sukhoi Corporation beginning in 1995 and built under licence by India’s Hindustan Aeronautics Limited (HAL).
+The first squadron was inducted into the Indian Air Force (IAF) in 2002.
+Characteristics:
+It is a heavy, all-weather, long-range fighter with a highly integrated twin-finned airframe.
+The construction materials include titanium and high-strength Aluminium alloy.
+Engine Upgrade:
+India’s “Super Sukhoi” Program aims to enhance the performance and longevity of AL-31F engines, addressing long-standing engine failure issues and deficiencies.
 
 <br>
 
