@@ -809,6 +809,8 @@ Which of the statements given above is/are correct?
 
 **Blaming court vacation for pendency misses the real problem**
 
+![image](https://github.com/Allan122/.C-A/assets/45638226/c410310b-defa-415a-9dff-5cf3a8610a99)
+
 ### From UPSC perspective, the following things are important :
 ### Prelims level: Judiciary
 ### Mains level: Present Challenges related to Case Pendencies
@@ -1007,6 +1009,8 @@ India's biodiversity is immensely rich and varied, reflecting its diverse geogra
 
 # **TOBACCO: THE SILENT KILLER**
 
+![image](https://github.com/Allan122/.C-A/assets/45638226/483f6b65-b998-4c9f-816b-0b63baee4dae)
+
 ### From UPSC perspective, the following things are important:
 ### Prelims level: Reports on Tobacco Consumption in India
 ### Mains level: Implementing and Catching Up with Industry
@@ -1117,6 +1121,91 @@ Tobacco consumption poses significant public health challenges in India, leading
 ### Conclusion
 
 The Indian government has made significant strides in controlling tobacco consumption through a combination of legislative, regulatory, and public health measures. While these efforts have yielded positive results, ongoing challenges require a multifaceted approach, including stronger enforcement, community involvement, and economic support for affected stakeholders. By addressing these areas, India can continue to reduce tobacco use and improve public health outcomes.
+
+<br>
+
+# 03-06-2024
+
+**40 Years since Operation Blue Star**
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/5f2b472f-cf55-4a2a-81e4-8987793f5cd2)
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Op Blue Star, Golden Temple, Khalistani Movement
+### Mains level: Separatists activism and threat to internal security
+
+**Operation Blue Star**
+- Operation Blue Star was a military operation carried out by the Indian Army in June 1984 to remove  Khalistani group-based militants who were hiding inside the Golden Temple complex in Amritsar, Punjab.
+- The militants, led by Jarnail Singh Bhindranwale, had fortified the temple complex and were advocating for an independent Sikh state called Khalistan.
+- The operation aimed to flush out the militants from the Golden Temple complex and restore law and order in the region.
+- However, it resulted in significant casualties and damage to the sacred shrine.
+- The operation began on June 1, 1984, and lasted for 10 days
+- The operation was highly controversial and led to widespread outrage among Sikhs, both in India and abroad. It also had political repercussions, including the assassination of Prime Minister Indira Gandhi by her bodyguards later that year, which sparked anti-Sikh riots across India.
+
+**Factors Contributing to Khalistan’s Rise:**
+- Partition of India (1947): The division of Punjab and the loss of Sikh holy sites in Pakistan led to a sense of displacement and marginalisation among Sikhs.
+- Linguistic Reorganization of States (1966): The creation of a Sikh-majority Punjab but with reduced territorial size and economic potential further fueled the desire for greater autonomy and cultural rights.
+- Anandpur Sahib Resolution (1973): The demand for greater autonomy and cultural rights for Punjab was seen as a secessionist threat by the central government, leading to increased tensions.
+- External Support: The involvement of external forces, such as Pakistan, which have supported and funded some Khalistani groups for their strategic interests, has also played a significant role in the movement’s persistence.
+
+<br>
+
+# PYQ:
+**[2016] Has the formation of linguistic states strengthened the cause of Indian unity?**
+
+### Formation of Linguistic States and Indian Unity
+
+The formation of linguistic states in India has been a significant development in the country's political and administrative landscape. This process, which began in the 1950s, was aimed at reorganizing state boundaries based on linguistic lines. The question of whether this has strengthened Indian unity is a complex one, involving various socio-political dimensions.
+
+### Background
+
+The demand for linguistic states gained momentum during the Indian independence movement. The linguistic reorganization was seen as a means to ensure administrative convenience, cultural preservation, and political representation. The States Reorganisation Act of 1956 marked a major milestone in this process.
+
+### Strengthening Indian Unity
+
+#### 1. Cultural Preservation and Identity
+- **Protection of Language and Culture:**
+  - Linguistic states have allowed for the preservation and promotion of regional languages and cultures, fostering a sense of pride and identity among people.
+  - This cultural recognition has mitigated feelings of marginalization, contributing to national integration.
+
+#### 2. Administrative Efficiency
+- **Improved Governance:**
+  - States formed on linguistic lines have resulted in administrative units that are more homogeneous in terms of language and culture, leading to better governance and more effective implementation of policies.
+  - It has enabled the administration to communicate effectively with the population, improving public services and citizen satisfaction.
+
+#### 3. Political Representation
+- **Enhanced Democracy:**
+  - Linguistic states have ensured that regional languages and cultures are adequately represented in the political arena.
+  - This representation has strengthened democracy by giving voice to diverse linguistic groups within the federal structure.
+
+#### 4. Reduced Regional Disparities
+- **Balanced Development:**
+  - By aligning state boundaries with linguistic identities, regional disparities have been addressed more effectively, fostering balanced socio-economic development across different regions.
+
+### Challenges and Criticisms
+
+#### 1. Regionalism and Parochialism
+- **Rise of Regionalism:**
+  - The creation of linguistic states has, in some instances, led to an increase in regionalism, with some states prioritizing local interests over national concerns.
+  - This regionalism can sometimes lead to parochialism, where the interests of the state are seen as separate from or even opposed to national unity.
+
+#### 2. Inter-State Disputes
+- **Boundary and Resource Conflicts:**
+  - Linguistic reorganization has sometimes resulted in inter-state disputes over boundaries, water resources, and other issues, challenging national cohesion.
+  - Examples include the disputes between Karnataka and Maharashtra over Belgaum and between Andhra Pradesh and Telangana over river waters.
+
+#### 3. Migration and Identity Issues
+- **Challenges of Internal Migration:**
+  - Large-scale migration within India has led to linguistic minorities in various states, sometimes causing tensions and identity issues.
+  - The protection of linguistic minorities and ensuring their integration into the state's socio-political fabric remains a challenge.
+
+### Evaluation and Conclusion
+
+The formation of linguistic states has largely strengthened Indian unity by preserving cultural identities, enhancing administrative efficiency, and ensuring political representation. However, the challenges of regionalism, inter-state disputes, and the integration of linguistic minorities need continuous attention.
+
+### Conclusion
+
+On balance, the linguistic reorganization of states in India has contributed positively to the cause of Indian unity by addressing linguistic and cultural aspirations and ensuring better governance. The process has, however, also introduced new challenges that need to be managed carefully. A continued emphasis on inclusive development, inter-state cooperation, and fostering a national identity alongside regional identities will be crucial for sustaining and enhancing Indian unity in the future.
 
 <br>
 
