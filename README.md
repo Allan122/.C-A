@@ -1240,3 +1240,329 @@ India’s “Super Sukhoi” Program aims to enhance the performance and longevi
 
 <br>
 
+
+# PYQ:
+**[2016] Which one of the following is the best description of ‘INS Astradharini’, that was in the news recently?**
+
+(a) Amphibious warfare ship
+(b) Nuclear-powered submarine
+(c) Torpedo launch and recovery vessel
+(d) Nuclear-powered aircraft carrier
+
+### The correct answer is:
+
+**(c) Torpedo launch and recovery vessel**
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/64d8f968-76c8-4912-a9a3-d496601b5d41)
+
+<br>
+
+# **Agnibaan Sub Orbital Technology Demonstrator (SOrTeD)**
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Agnibaan SOrTeD, PS4 Engine
+
+**Why in the News?**
+Agnikul Cosmos Private Limited, a space start-up from Chennai, made history by launching the world’s first rocket with a single-piece 3D-printed engine, named Agnibaan Sub Orbital Technology Demonstrator (SOrTeD), from Sriharikota.
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/2eea460e-f24a-42e3-8f56-c99760ad830e)
+
+- The PS4 engine, which forms the uppermost stage of the Polar Satellite Launch Vehicle (PSLV), comprises two Earth-storable liquid engines.
+- It uses a bipropellant combination of nitrogen tetroxide as the oxidizer and monomethyl hydrazine as the fuel, both developed by ISRO’s Liquid Propulsion Systems Centre.
+- This same engine is employed in the Reaction Control System (RCS) of the first stage (PS1) of PSLV.
+- ISRO redesigned the PS4 engine for production using 3D printing technology.
+- The technology helped ISRO bring down the number of parts in the engine from 14 to a single piece.
+- ISRO was able to eliminate 19 weld joints and saved 97% of raw material.
+- It also reduced the overall production time by 60%.
+
+
+**What is Agnibaan SOrTeD (Suborbital Tech Demonstrator)?** 
+- Agnibaan SOrTeD is a single-stage launch vehicle powered by Agnikul’s patented Agnilet semi-cryogenic engine.
+- In contrast to traditional sounding rockets, Agnibaan SOrTeD’s vertical take-off and precise trajectory enable orchestrated manoeuvres during flight.
+
+<br>
+
+# PYQ:
+**[2018] With reference to India’s satellite launch vehicles, consider the following statements:**
+- PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.
+- Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.
+- GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.
+Which of the statements given above is/are correct?
+
+(a) 1 only
+(b) 2 and 3
+(c) 1 and 2
+(d) 3 only
+
+Let's analyze each statement one by one to determine its correctness:
+
+1. **PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.**
+   - This statement is correct. The Polar Satellite Launch Vehicle (PSLV) is primarily used for launching satellites into polar orbits, which are often used for Earth observation and resource monitoring. The Geosynchronous Satellite Launch Vehicle (GSLV) is primarily used for launching heavier communication satellites into geostationary orbits.
+
+2. **Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.**
+   - This statement is incorrect. Satellites that appear to remain fixed in the sky are in geostationary orbits, which PSLVs typically do not target. PSLVs usually place satellites in polar or sun-synchronous orbits, where the satellite moves relative to a specific point on Earth.
+
+3. **GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.**
+   - This statement is incorrect. The GSLV Mk III is a three-stage launch vehicle. It has two solid rocket boosters (S200) as its first stage, a liquid core stage (L110) as its second stage, and a cryogenic upper stage (C25) as its third stage. It does not follow the configuration described in the statement.
+
+### the correct answer is:
+
+**(a) 1 only**
+
+<br>
+
+# **[pib] India Hosts Digital Health Side Event at World Health Assembly**
+
+### From UPSC perspective, the following things are important :
+### Prelims level: World Health Assembly (WHA)
+
+India hosted a side event on Digital Health during the **77th World Health Assembly**.The event saw participation from **Quad countries** (Australia, Japan, and the United States of America) and delegates from over 100 countries.
+
+### Key Highlights of the 7th World Health Assembly (WHA)
+
+1. **Transformative Role of Digital Health:**
+   - India emphasized the importance of digital health in achieving equitable and accessible healthcare, supporting Universal Health Coverage and Sustainable Development Goal 3.
+
+2. **India’s Digital Advancements:**
+   - Recognized India's large-scale digital infrastructure:
+     - **Aadhaar:** Digital identities.
+     - **Unified Payments Interface (UPI):** Financial transactions.
+     - **Co-WIN:** Health service delivery during the pandemic.
+
+3. **Transition to UWIN:**
+   - Co-WIN is evolving into UWIN for the National Immunization Programme, managing immunization records for newborns, mothers, and health records in Anganwadi and schools.
+
+4. **Ayushman Bharat Digital Mission (ABDM):**
+   - India's efforts to build a national digital health ecosystem:
+     - 618 million Unique Health IDs (ABHA IDs) generated.
+     - 268,000 health facilities registered.
+     - 350,000 healthcare professionals enlisted.
+
+5. **National Health Claims Exchange (NHCX):**
+   - Launch of NHCX under ABDM to modernize the insurance payment system, enabling real-time settlements and auto adjudication of claims through public-private partnerships using digital infrastructure.
+  
+
+Here is the information about the World Health Assembly (WHA) in tabular format:
+
+| **Details**            | **Description**                                                                                                                                               |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Establishment**      | Established in 1948 as the decision-making body of the World Health Organization (WHO)                                                                         |
+| **Frequency**          | Typically meets annually in Geneva, Switzerland                                                                                                               |
+| **Membership**         | Includes all 194 member states of the WHO, as well as certain international organizations as observers                                                        |
+| **Role and Functions** | - Setting Health Policies <br> - Adoption of Resolutions <br> - Reviewing Reports <br> - Collaboration and Partnerships                                       |
+| **Decision-Making Process** | Decisions made by a simple majority vote of member states present and voting                                                                                   |
+| **Themes and Agendas** | Each session focuses on specific global health priorities, addressing a wide range of health topics                                                           |
+| **Notable Achievements** | - Development and adoption of international health instruments and initiatives, including: <br> - International Health Regulations (IHR) <br> - Framework Convention on Tobacco Control (FCTC) <br> - Global Vaccine Action Plan (GVAP) <br> - Global Strategy for Women’s, Children’s, and Adolescents’ Health |
+| **Challenges**         | - Resource constraints <br> - Geopolitical tensions <br> - Need for greater inclusivity and transparency in decision-making                                  |
+
+<br>
+
+# PYQ:
+**[2016] ‘Doctors Without Borders (Medecins Sans Frontieres)’, often in the news, is**
+(a) A division of World Health Organization.
+
+(b) A non-governmental international organization.
+
+(c) An inter-governmental agency sponsored by European Union.
+
+(d) A specialized agency of the United Nations.
+
+### The correct answer is:
+
+**(b) A non-governmental international organization.**
+
+<br>
+
+### Koya Tribe and Cultural Crisis
+
+**Background:**
+- The Koya tribe, a multi-racial and multi-lingual community, resides primarily in Andhra Pradesh, and also in Madhya Pradesh and Orissa.
+- They live around the Godavari River and believe their main deity resides in a cave in the Bastar region.
+
+**Current Issue:**
+- **Cultural Crisis:** 
+  - The Koya face disruptions due to intensified enforcement of liquor regulations by the Special Enforcement Bureau (SEB).
+  - Mahua liquor, essential for cultural ceremonies like weddings and funerals, is targeted in police raids.
+  - Recent raids forced the community to conduct ceremonies without Mahua liquor, causing cultural distress.
+
+**Legal and Economic Impact:**
+- **Legal Challenges:**
+  - The Andhra Pradesh Prohibition Act, 1995, does not exempt Koya's traditional brewing of Mahua liquor.
+  - The Panchayat (Extension to Scheduled Areas) Act (PESA), 1996, which protects tribal traditions, is not effectively implemented.
+  - Koya villagers often face bribes and legal pressures.
+
+- **Economic Consequences:**
+  - Fear of raids has led many Koya households to stop collecting Mahua flowers, impacting their income.
+  - Raids destroy collected flowers, reducing their market supply and affecting their trade for essential goods.
+
+**Cultural Preservation:**
+- The Koya tribe is seen as guardians of their culture. However, displacement and integration with non-tribal communities threaten their cultural identity.
+- Local leaders advocate empowering Koya women with skills to produce value-added products from Mahua flowers.
+
+**Suggested Measures:**
+1. **Amend the Andhra Pradesh Prohibition Act, 1995:** Introduce exemptions for traditional brewing of Mahua liquor for cultural purposes.
+2. **Strengthen PESA Implementation:** Ensure that Gram Sabhas have a say in protecting tribal traditions, including Mahua liquor brewing.
+
+**Conclusion:**
+- SEB's enforcement actions threaten the Koya tribe’s cultural heritage and economic well-being.
+- Balancing legal regulations with respect for tribal traditions is essential to preserving the Koya way of life.
+
+<br>
+
+# Mains PYQ:
+**Q What are the two major legal initiatives by state since Independence, addressing discrimination against Scheduled Tribes (ST) ? (UPSC IAS/2017)**
+
+### Major Legal Initiatives Addressing Discrimination Against Scheduled Tribes (ST) Since Independence
+
+1. **The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989:**
+   - **Objective:** This act was enacted to prevent atrocities and hate crimes against Scheduled Castes (SC) and Scheduled Tribes (ST) and to ensure their social, economic, and political rights.
+   - **Provisions:**
+     - The act specifies various offenses as atrocities, including acts of violence, discrimination, and social and economic exploitation.
+     - Establishment of Special Courts for the trial of offenses under the act.
+     - Creation of a special mechanism to investigate cases and ensure the safety and rehabilitation of victims.
+     - Provision for stringent punishment for offenders, including public servants who neglect their duties related to prevention and investigation of atrocities.
+
+2. **The Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA):**
+   - **Objective:** PESA was enacted to extend the provisions of Part IX of the Indian Constitution (which deals with Panchayats) to Scheduled Areas. The act aims to empower local self-governance in tribal areas and ensure the protection and preservation of tribal culture and traditions.
+   - **Provisions:**
+     - Recognition of the Gram Sabha (village assembly) as the key decision-making body in Scheduled Areas.
+     - Empowerment of Gram Sabhas to safeguard and preserve traditions and customs, cultural identity, community resources, and the customary mode of dispute resolution.
+     - Authority given to Gram Sabhas to approve plans, programs, and projects for social and economic development.
+     - Control over local institutions and resources, including minor forest produce, minor minerals, and village markets.
+     - Mandate for consultation with Gram Sabhas before land acquisition and resettlement, and implementation of social welfare schemes.
+
+### Conclusion
+The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, and the Panchayats (Extension to Scheduled Areas) Act, 1996, are two pivotal legal initiatives taken by the state since Independence to address discrimination against Scheduled Tribes (ST). These laws aim to protect the rights of ST communities, ensure their participation in local governance, and prevent atrocities and exploitation. Despite these legal measures, continuous efforts are needed to fully realize the objectives and ensure that the benefits reach the intended communities.
+
+<br>
+
+
+# Global Food Policy Report 2024
+- **Released by:** International Food Policy Research Institute (IFPRI)
+- **Focus:** Food Systems for Healthy Diets and Nutrition
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Global Food Policy Report 2024
+### Mains level: Emerging Trends in India related to the consumption of unhealthy food
+
+#### About CGIAR
+- **Formerly Known as:** Consultative Group on International Agricultural Research
+- **Mission:** Reduce poverty, enhance food and nutrition security, improve natural resources and ecosystem services
+- **Role:** Research and partnerships to transform global food systems
+
+#### Emerging Trends in India
+- **Increase in Unhealthy Food Consumption:**
+  - 38% of the population consumes unhealthy foods like salty or fried snacks.
+  - Only 28% consume all five recommended food groups.
+  - Rise in processed foods and convenience foods.
+  - Malnutrition increased from 15.4% in 2011 to 16.6% in 2021.
+  - Overweight adults rose from 12.9% in 2006 to 16.4% in 2016.
+
+- **Processed Food Consumption in South Asia:**
+  - Rising intake of chocolates, salty snacks, beverages, and ready-made meals.
+  - High levels of undernutrition and micronutrient deficiencies alongside rising overweight and obesity rates.
+  - Packaged food spending in household food budgets nearly doubled from 6.5% to 12% between 2015 and 2019.
+
+#### Issue of Double Malnutrition
+- **Definition:** Coexistence of undernutrition and micronutrient deficiencies with overweight, obesity, or diet-related noncommunicable diseases (NCDs).
+- **Impact:** More than two billion people, especially in Africa and South Asia, cannot afford a healthy diet.
+
+#### Dietary Guidelines by ICMR
+- **Guidelines:** Promote healthy eating with 17 dietary guidelines.
+- **Focus:**
+  - Reading food labels for informed choices.
+  - Minimizing high-fat, sugar, salt, and ultra-processed foods.
+  - Emphasizing diverse diets over cereal-centric agriculture and food policies.
+  - Warning against misleading information on packaged foods.
+
+#### Way Forward
+- **Strengthen Nutritional Policies:**
+  - Develop policies to promote nutritious foods.
+  - Implement taxes on unhealthy foods and subsidies for fruits, vegetables, and micronutrient-rich foods.
+- **Regulate Processed Foods:**
+  - Strict regulations on marketing unhealthy foods, especially targeting children.
+
+These highlights cover the essential points regarding the increase in unhealthy food consumption in India, the role of CGIAR and IFPRI, the issue of double malnutrition, and the suggested measures to improve nutritional policies and regulate processed foods.
+
+<br>
+
+# Mains PYQ:
+**Q How far do you agree with the view that the focus on the lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (15) (UPSC IAS/2018)**
+### Answer Outline:
+
+#### Introduction:
+- Define hunger and its causes.
+- State the traditional view that lack of food availability is the main cause of hunger.
+
+#### Body:
+
+1. **Focus on Food Availability:**
+   - Explain the argument that hunger is primarily due to insufficient food production.
+   - Mention India's food production statistics and self-sufficiency in food grains.
+   - Highlight the role of the Public Distribution System (PDS) in ensuring food availability.
+
+2. **Ineffective Human Development Policies:**
+   - Introduce the broader perspective that ineffective human development policies are major contributors to hunger.
+   - **Key Areas of Ineffectiveness:**
+     - **Poverty:** Despite economic growth, a significant portion of the population remains below the poverty line, unable to afford nutritious food.
+     - **Education:** Lack of education leads to poor awareness about nutrition and health.
+     - **Healthcare:** Poor healthcare infrastructure and services result in malnutrition and related diseases.
+     - **Employment:** Unemployment or underemployment limits people's purchasing power to buy nutritious food.
+     - **Sanitation:** Poor sanitation and hygiene contribute to malnutrition and health issues.
+
+3. **Case Studies and Examples:**
+   - Examples of states with high food production but high malnutrition rates.
+   - Success stories where improvements in human development policies have reduced hunger and malnutrition.
+
+4. **Government Initiatives:**
+   - **National Food Security Act (NFSA):** Provision of subsidized food grains.
+   - **Midday Meal Scheme:** Improvement in nutritional status of school children.
+   - **Integrated Child Development Services (ICDS):** Providing food, preschool education, and primary healthcare.
+   - **National Health Mission (NHM):** Enhancing healthcare services.
+
+5. **Recommendations:**
+   - **Holistic Approach:** Integrating food security with comprehensive human development policies.
+   - **Strengthening PDS:** Ensuring efficient distribution and minimizing leakages.
+   - **Education and Awareness:** Promoting nutritional education and awareness.
+   - **Healthcare Improvements:** Investing in healthcare infrastructure and services.
+   - **Employment Generation:** Creating job opportunities to enhance purchasing power.
+   - **Sanitation Programs:** Enhancing sanitation and hygiene initiatives.
+
+#### Conclusion:
+- Summarize the arguments.
+- Emphasize the need for a multi-dimensional approach to tackle hunger.
+- Conclude with the assertion that addressing human development policies is crucial for eliminating hunger in India.
+
+### Answer:
+
+Hunger, defined as the distress associated with a lack of sufficient food, has traditionally been viewed primarily as a consequence of inadequate food availability. This perspective has led to significant emphasis on increasing food production and ensuring food supply through initiatives like the Public Distribution System (PDS). However, while food availability is crucial, focusing solely on it diverts attention from deeper, systemic issues related to ineffective human development policies, which are equally, if not more, responsible for persistent hunger in India.
+
+India has achieved remarkable self-sufficiency in food production, with significant surpluses in staples like rice and wheat. Despite this, the country continues to grapple with high levels of hunger and malnutrition. This paradox highlights the inadequacy of viewing food availability as the sole cause of hunger. The Public Distribution System (PDS), although essential, suffers from inefficiencies such as leakage, corruption, and exclusion errors, which undermine its effectiveness.
+
+The broader issue lies in ineffective human development policies, which encompass a range of socio-economic factors:
+
+1. **Poverty:** A large segment of India's population lives below the poverty line, unable to afford nutritious food despite its availability. Poverty restricts access to diverse diets necessary for proper nutrition.
+   
+2. **Education:** Lack of education and awareness about nutrition exacerbates malnutrition. People often lack knowledge about balanced diets and healthy eating practices.
+
+3. **Healthcare:** Poor healthcare services and infrastructure contribute to malnutrition and related health issues. Inadequate maternal and child healthcare leads to high rates of infant and maternal mortality and malnutrition.
+
+4. **Employment:** Unemployment and underemployment limit the ability of households to purchase adequate food. Economic instability forces families to prioritize immediate survival over nutritional quality.
+
+5. **Sanitation:** Poor sanitation and hygiene practices lead to diseases that impair nutrient absorption, exacerbating malnutrition. The lack of clean drinking water and sanitation facilities directly affects health and nutritional status.
+
+Examples from various states underscore these issues. For instance, despite being a major food producer, Uttar Pradesh has alarming rates of malnutrition due to systemic issues in healthcare, education, and sanitation. Conversely, states like Kerala, with robust human development policies, have significantly lower hunger and malnutrition rates despite limited agricultural output.
+
+The Indian government has launched several initiatives to address these challenges:
+
+- **National Food Security Act (NFSA):** Ensures subsidized food grains to approximately two-thirds of the population.
+- **Midday Meal Scheme:** Aims to improve the nutritional status of school children by providing free lunches.
+- **Integrated Child Development Services (ICDS):** Offers food, preschool education, and primary healthcare to children under six and their mothers.
+- **National Health Mission (NHM):** Strengthens healthcare delivery systems in rural and urban areas.
+
+While these programs are vital, they need to be integrated into a more holistic approach that addresses the root causes of hunger. Strengthening the PDS to ensure efficient and equitable food distribution is necessary but not sufficient. Enhancing education, healthcare, employment opportunities, and sanitation must accompany it to create a sustainable solution to hunger.
+
+In conclusion, while the lack of food availability is a significant factor, it is not the sole cause of hunger in India. Ineffective human development policies, encompassing poverty, education, healthcare, employment, and sanitation, play a critical role. Addressing these underlying issues through a multi-dimensional approach is essential for eliminating hunger and ensuring food security for all Indians.
+
+<br>
+
