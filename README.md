@@ -1781,4 +1781,51 @@ The quote underscores the fundamental connection between personal inner peace an
 
 <br>
 
-# Date - 2 and 3 Remaining Civils daily
+# Date - 4-06-2024
+
+
+**Prelims level:**
+- **Lancet Report:** The Lancet Public Health Journal highlighted persistent gender disparities in health conditions over three decades, focusing on 20 diseases.
+
+**Mains level:**
+- **Women Issues in Indian Society:** The report underscores ongoing challenges faced by women in healthcare, including higher prevalence of conditions like lower back pain and depression.
+- **Health Issues:** It sheds light on the varied health burdens experienced by men and women, with women spending more time in poor health and men facing higher mortality rates from conditions like cardiovascular diseases and accidents.
+
+**Why in the news?**
+- The Lancet Public Health Journal revealed minimal progress in narrowing gender health disparities over 30 years, emphasizing the need for targeted interventions.
+
+**Key Findings:**
+- Women suffer more from lower back pain, depression, and headaches, while men experience shorter life expectancies due to higher rates of road accidents, cardiovascular diseases, and COVID-19.
+- Biological factors such as hormonal differences, genetic variations, and anatomical variances contribute to disease disparities between genders.
+- Societal norms, healthcare-seeking behaviors, occupational hazards, and socioeconomic factors also influence health outcomes differently for men and women.
+- Healthcare biases, including diagnostic bias, treatment disparities, and research bias, persist and contribute to the stable gender gap in health conditions.
+
+**Way Forward:**
+- Governments should prioritize consistent data collection by sex and gender to inform targeted health interventions.
+- Specific health programs should be developed based on detailed sex and gender data to address disparities effectively.
+- Increased funding is essential for underfunded conditions affecting women, particularly in mental health.
+- Efforts should be made to eliminate biases in healthcare to ensure timely and appropriate treatment for women's conditions.
+
+<br>
+
+# Mains PYQ:
+**Q Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with exampies. (UPSC IAS/2021)**
+
+Yes, the vicious cycle of gender inequality, poverty, and malnutrition can be broken through microfinancing of women Self-Help Groups (SHGs). Microfinancing empowers women economically, enabling them to break free from the cycle of poverty and its associated consequences.
+
+**Explanation:**
+1. **Economic Empowerment:** Microfinancing provides women with access to small loans and financial services through SHGs. This empowers them to start or expand small businesses, generate income, and improve their financial stability. With increased income, women can afford better nutrition, healthcare, and education for themselves and their families.
+
+2. **Social Empowerment:** In addition to economic benefits, microfinancing promotes social empowerment by giving women a platform to voice their opinions, make decisions collectively, and challenge traditional gender roles. This leads to greater participation in community activities, increased self-confidence, and improved social status.
+
+3. **Nutritional Impact:** Women who have access to microfinancing are better able to afford nutritious food for themselves and their families. Improved nutrition leads to better health outcomes, reduced incidence of malnutrition, and overall improvement in the well-being of women and children.
+
+**Examples:**
+1. **Grameen Bank, Bangladesh:** The Grameen Bank, founded by Muhammad Yunus, pioneered microfinancing for women in Bangladesh. Through small loans provided to women SHGs, many women were able to start businesses, such as poultry farming or handicrafts, leading to increased income and improved living standards for their families.
+
+2. **Kudumbashree, Kerala, India:** Kudumbashree is one of the largest women-oriented poverty eradication programs in India. Through microfinancing initiatives, women are empowered to engage in various income-generating activities, such as small-scale farming, tailoring, and food processing. This has not only improved the economic status of women but also contributed to poverty alleviation and improved nutrition outcomes in Kerala.
+
+In conclusion, microfinancing of women SHGs has proven to be an effective strategy in breaking the vicious cycle of gender inequality, poverty, and malnutrition by empowering women economically and socially, leading to positive outcomes for individuals, families, and communities.
+
+<br>
+
