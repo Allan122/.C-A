@@ -1783,8 +1783,6 @@ The quote underscores the fundamental connection between personal inner peace an
 
 # Date - 4-06-2024
 
-complete 3rd date
-
 # Women often outlive men but in poorer health: what new Lancet study says
 ![image](https://github.com/Allan122/.C-A/assets/45638226/b584d042-090e-4382-b139-e08b663dc912)
 
@@ -2407,7 +2405,379 @@ Indian coal is characterized by a high ash content, which can range from 30% to 
 <br>
 
 # Protecting Mangroves in Tamil Nadu 
+![image](https://github.com/Allan122/.C-A/assets/45638226/9279ca0c-62b0-475c-b469-2e1925ae6f68)
 
 ### From UPSC perspective, the following things are important :
 ### Prelims level: Mangroves in India
+
+**Why in the News?**
+The International Union for Nature Conservation (IUCN) has listed mangroves in coastal regions spanning Tamil Nadu, Sri Lanka and Maldives as ‘critically endangered’ in its first global assessment of mangrove ecosystems.
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/e52735e8-28b3-445e-9bc2-d76997d39c38)
+
+- Global assessment reveals a 50% risk of mangrove ecosystem collapse. Without further conservation, by 2050, 7,065 sq km more mangroves will be lost, and 23,672 sq km submerged.
+
+**If we let this happen, the world is at risk of losing:**  
+- 1.8B tonnes of carbon stored, costing society $336B (based on the social cost of carbon). Protects 2.1M lives and $36B worth of property from coastal flooding..
+
+**Sea-level rise is the main threat affecting mangrove ecosystems.** 
+- 25% of the global mangrove area is predicted to be submerged in the next 50 Years.
+- 1/3 of the world’s mangrove ecosystem provinces will be severely affected by sea-level rise.
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/6912e04f-899d-49e1-99e8-2cfa4260970f)
+
+## Tamil Nadu’s Efforts for Mangroves Conservation
+
+- The Tamil Nadu Forest Department has doubled mangrove cover from 23 sq km in 2001 to 45 sq km in 2021, as per the Indian State of Forest Report.
+- Mangrove restoration projects have been undertaken across Nagapattinam, Thiruvarur, Cuddalore, Pudukottai, Ramanathapuram, Thiruvallur, and Villupuram districts, with plans for an additional 15 sq km restoration under the Tamil Nadu Coastal Restoration Mission funded by the World Bank.
+
+## **TN-SHORE: World Bank-funded Coastal Restoration Mission**
+Tamil Nadu’s TN-SHORE initiative, launched in January 2024, aims to address environmental challenges along the coastline. With Rs 1,675 crore funding, including 70% from the World Bank, it focuses on blue carbon sequestration.
+
+## **Back2Basics: Mangroves**
+- Mangroves constitute a group of trees and shrubs inhabiting the coastal intertidal zone.
+- They are found globally in tropical and subtropical regions, typically between **latitudes 25° N and 25° S**.
+- Mangroves are predominantly located in tropical regions due to their intolerance to the extreme cold conditions prevalent in temperate zones.
+
+## **Features of Mangroves:**
+- **Adaptation to waterlogged and anoxic soil:** Mangroves possess unique characteristics allowing them to survive in waterlogged and oxygen-deficient environments.
+- **Halophytes:** Mangrove species have the ability to filter out up to 90% of the salt from seawater as it enters their roots, with some species also excreting salt through glands in their leaves.
+- **Water retention capacity:** Thick succulent leaves store fresh water, while a waxy coating on some species’ leaves minimizes evaporation.
+- **Pneumatophores:** Certain mangroves develop pencil-like roots that emerge from the ground to absorb oxygen from the air, aiding in coping with tidal flooding.
+- **Prop roots:** Many mangrove trees possess dense aerial roots descending from their trunks and branches, which stabilize and support them against waves and tides.
+- **Lenticellated bark:** Oxygen enters mangroves through lenticels, small breathing pores in the bark and roots, enabling them to adapt to low oxygen conditions.
+- **Viviparity:** Seed pods germinate while still on the tree, facilitating immediate root growth upon dropping.
+
+## **Mangroves in India:**
+- According to the India State of Forest Report 2021, mangrove cover in India comprises 0.15% of the country’s total geographical area.
+- West Bengal has the highest percentage of area under total mangrove cover among states and union territories, followed by Gujarat and the Andaman and Nicobar Islands.
+- The Sundarbans, characterized by the dominant mangrove species sundari (Heritiera fomes), is the largest continuous mangrove forest globally.
+- Various mangrove areas in India are protected within reserves and sanctuaries such as the Sundarbans Tiger Reserve, Bhitarkanika, Coringa, Nelapattu, Point Calimere Wildlife Sanctuaries, Pirotan National Park, among others.
+
+
+<br>
+
+# PYQ:
+**[2011] The 2004 Tsunami made people realize that mangroves can serve as a reliable safety hedge against coastal calamities. How do mangroves function as a safety hedge?**
+
+(a) The mangrove swamps separate the human settlements from the sea by a wide zone in which people neither live nor venture out
+
+(b) The mangroves provide both food and medicines which people are in need of after any natural disaster
+
+(c) The mangrove trees are tall with dense canopies and serve as an excellent shelter during a cyclone or tsunami
+
+(d) The mangrove trees do not get uprooted by storms and tides because of their extensive roots.
+
+The correct answer to the question regarding the role of mangroves as a safety hedge against coastal calamities, such as tsunamis, is:
+
+**(d) The mangrove trees do not get uprooted by storms and tides because of their extensive roots.**
+
+### **Explanation:**
+
+**Mangroves as a Safety Hedge:**
+
+Mangroves are coastal forests characterized by salt-tolerant trees and shrubs. They are found in tropical and subtropical tidal areas and are known for their extensive root systems which help stabilize the coastline. Here’s how they function as a safety hedge:
+
+1. **Protection Against Erosion:**
+   - **Extensive Root Systems:** Mangroves have complex root systems that bind the soil and reduce coastal erosion. Their roots dissipate wave energy and protect the shore from being washed away during storms and tsunamis.
+
+2. **Buffer Against Waves and Storm Surges:**
+   - **Wave Energy Dissipation:** The dense network of roots and trunks can absorb and dissipate the energy of storm surges and high waves, thereby reducing the impact on inland areas. During the 2004 tsunami, areas with healthy mangrove forests experienced significantly less damage compared to areas where mangroves had been removed.
+
+3. **Reduction of Flood Impact:**
+   - **Barrier to Water Inundation:** Mangroves act as a natural barrier, slowing down the advance of water during tidal waves and reducing the height and speed of the incoming water.
+
+### **Why Other Options are Incorrect:**
+
+**(a) The mangrove swamps separate the human settlements from the sea by a wide zone in which people neither live nor venture out.**
+- **Incorrect:** While mangrove swamps do create a zone between human settlements and the sea, their primary function as a safety hedge is due to their ability to absorb wave energy and prevent erosion, not merely separating human settlements from the sea.
+
+**(b) The mangroves provide both food and medicines which people are in need of after any natural disaster.**
+- **Incorrect:** Although mangroves do provide resources such as food and traditional medicines, this is not their primary function as a safety hedge against coastal calamities.
+
+**(c) The mangrove trees are tall with dense canopies and serve as an excellent shelter during a cyclone or tsunami.**
+- **Incorrect:** Mangrove trees are not particularly known for their height or dense canopies, and they do not serve as physical shelters. Their protective function is more about their root systems and their ability to reduce wave energy and erosion.
+
+**(d) The mangrove trees do not get uprooted by storms and tides because of their extensive roots.**
+- **Correct:** The extensive root systems of mangrove trees anchor them firmly in the soil, making them resilient against being uprooted by strong storms and tides. This root system also plays a crucial role in stabilizing the coastline and protecting against coastal erosion and wave impacts.
+
+### **Further Reading and References:**
+- **[Role of Mangroves in Coastal Protection](https://www.iucn.org/content/mangroves-role-coastal-protection)**
+- **[Mangroves and Coastal Defense](https://www.nature.com/articles/s41598-018-20644-z)**
+- **[Mangroves as Coastal Protection | Wetlands International](https://www.wetlands.org/publications/mangroves-as-coastal-protection/)**
+- **[How Do Mangroves Protect Coastlines? | World Wildlife Fund (WWF)](https://www.worldwildlife.org/pages/how-do-mangroves-protect-coastlines)**
+
+Mangroves are indeed a critical natural defense against coastal hazards, and their conservation is essential for maintaining the resilience of coastal communities.
+
+<br>
+
+# Sundhnuksgigar Volcano erupts in Iceland
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Frequent Volcanic eruptions this year, Sundhnuksgigar and other Volcanoes Why in the News?
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/8931257c-74fa-45a9-82ee-c7146e1f46c0)
+
+**About Sundhnuksgigar Volcano** 
+- Sundhnuksgigar is a row of craters just outside the town of Grindavik on the Reykjanes peninsula
+- It is situated on the Mid-Atlantic Ridge, a divergent boundary where the Eurasian and North American tectonic plates are moving apart.
+
+## **What is a Volcano?**
+- A volcano is a fissure or vent in the Earth’s crust through which gases, molten rock materials (lava), ash, steam, etc., are expelled during an eruption.
+- These openings occur where the rock layers in the Earth’s crust are relatively weak.
+- Volcanic activity is categorized as an endogenic process, originating from within the Earth.
+- Depending on the explosivity of the volcano, various extrusive and intrusive landforms can be formed.
+
+## **Different types of volcanoes can be classified based on the frequency of eruption and the nature of the eruption:**
+**1. Frequency of eruption:**
+- **Active volcanoes:** Frequent eruptions in Pacific Ring of Fire: New Zealand, Southeast Asia, Japan, western Americas. Linked to plate tectonics, like Kilauea and Santa Maria. High seismicity, volcanic activity.
+- **Dormant Volcanoes:** These are not currently erupting but have the potential to erupt again in the future. An example is Mount Kilimanjaro in Tanzania, the highest mountain in Africa.
+- **Extinct or inactive volcanoes:** These have not erupted in the distant geological past. Dhinodhar Hill in Gujarat is an example.
+
+**2. Nature of Eruption:**
+- **Shield Volcanoes:** Largest and least explosive volcanoes, formed from basalt lava. Often low in explosivity, except when water interacts. Hawaiian volcanoes exemplify this..
+- **Composite Volcanoes:** Volcanoes with cooler, thicker lava, built up through explosive eruptions. Layer ash, pyroclastic material, and lava flow. Examples: Mayon, Fuji, Rainier.
+- **Calderas:** The most explosive volcanoes, prone to collapsing inward during eruptions rather than building upwards. The resulting depressions are called calderas.
+- **Flood Basalt Provinces:** These volcanoes erupt highly fluid lava that travels long distances, covering vast areas with thick basalt flows.
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/aab16d9a-ff4e-4597-a542-71ef28626725)
+
+## **Reasons for Iceland’s Volcanism**
+- **Tectonic Activity:** Iceland is situated on the Mid-Atlantic Ridge, where the Eurasian and North American plates diverge. This creates volcanic rift zones where magma rises to the surface, leading to eruptions.
+- **Hotspots:** Additionally, Iceland is positioned over a hotspot, contributing to heightened volcanic activity. Hotspots are areas where magma from the mantle rises towards the surface, fueling eruptions.
+- **Subglacial Volcanism:** Iceland’s volcanic activity is not limited to the surface; some eruptions occur beneath glaciers, leading to explosive interactions between lava and ice. These subglacial eruptions can produce powerful steam explosions, ash clouds, and catastrophic floods known as jokulhlaup.
+
+<br>
+
+# PYQ:
+**[2021] Mention the global occurrence of volcanic eruptions in 2021 and their impact on the regional environment.**
+
+### **Volcanic Eruptions in 2021 and Their Impact on the Regional Environment**
+
+**Introduction**
+
+The year 2021 witnessed numerous volcanic eruptions around the world, impacting regional environments significantly. These eruptions varied in scale and intensity, influencing atmospheric conditions, local ecosystems, and human activities. This discussion provides a summary of notable volcanic eruptions in 2021 and their environmental impacts.
+
+#### **Notable Volcanic Eruptions in 2021**
+
+1. **La Soufrière, Saint Vincent and the Grenadines:**
+   - **Date:** April 2021
+   - **Impact:**
+     - **Ashfall and Air Quality:** The eruption produced massive ash clouds that covered the island, affecting air quality and leading to the evacuation of thousands of residents.
+     - **Agricultural Damage:** The ashfall caused significant damage to crops, impacting food security and local agriculture.
+     - **Water Contamination:** Ash contamination affected water supplies, creating a need for emergency response measures.
+
+2. **Mount Nyiragongo, Democratic Republic of Congo:**
+   - **Date:** May 2021
+   - **Impact:**
+     - **Lava Flow:** The eruption led to fast-moving lava flows that destroyed homes and infrastructure in Goma, displacing over 400,000 people.
+     - **Seismic Activity:** The eruption triggered seismic activities, causing ground cracks and further destabilizing the region.
+     - **Health Risks:** Emissions of volcanic gases posed health risks, particularly respiratory issues, to the local population.
+
+3. **Cumbre Vieja, La Palma, Canary Islands (Spain):**
+   - **Date:** September 2021 – December 2021
+   - **Impact:**
+     - **Lava Flow:** The eruption resulted in extensive lava flows that destroyed more than 2,800 buildings and led to the evacuation of around 7,000 residents.
+     - **Economic Impact:** The destruction of agricultural land, primarily banana plantations, caused significant economic losses.
+     - **Air Travel Disruption:** Ash clouds led to periodic closures of the La Palma airport, affecting tourism and transport.
+
+4. **Mount Etna, Italy:**
+   - **Date:** Frequent eruptions throughout 2021
+   - **Impact:**
+     - **Frequent Eruptions:** Mount Etna exhibited frequent explosive activity, producing ash plumes and lava flows that impacted local air traffic and agriculture.
+     - **Air Quality:** Volcanic ash from eruptions affected air quality in nearby communities, requiring residents to clean ash from their properties regularly.
+
+5. **Fagradalsfjall, Iceland:**
+   - **Date:** March 2021 – ongoing (as of the end of 2021)
+   - **Impact:**
+     - **Tourism Boom:** The eruption attracted significant attention from tourists and scientists, leading to increased tourism in the region.
+     - **Lava Landscape:** The eruption created new lava fields, altering the local landscape and adding to Iceland's geological diversity.
+
+#### **Impact on Regional Environment**
+
+1. **Atmospheric Effects:**
+   - **Ash and Gas Emissions:** Volcanic eruptions released large amounts of ash and volcanic gases such as sulfur dioxide (SO₂) into the atmosphere. This can lead to the formation of volcanic smog (vog) and contribute to short-term cooling of the Earth's surface due to the reflection of sunlight.
+   - **Climate Influence:** While individual eruptions in 2021 did not cause significant global climate impacts, they did contribute to regional climate variations and temporary disruptions in weather patterns.
+
+2. **Ecological Impacts:**
+   - **Habitat Destruction:** Lava flows and ashfall can destroy natural habitats, affecting flora and fauna. Recovery of ecosystems can take years or even decades.
+   - **Soil Fertility:** Over time, volcanic ash can enhance soil fertility due to the minerals it contains, potentially benefiting agriculture in the long term.
+
+3. **Human and Economic Consequences:**
+   - **Displacement and Infrastructure Damage:** Eruptions led to the displacement of communities, destruction of homes, infrastructure, and disruption of livelihoods, particularly in agriculture and tourism.
+   - **Health Risks:** Exposure to volcanic ash and gases can cause respiratory problems and other health issues, necessitating medical interventions and public health measures.
+
+4. **Disaster Preparedness and Response:**
+   - **Evacuation Efforts:** The eruptions highlighted the importance of effective evacuation plans and disaster response mechanisms to protect affected populations.
+   - **Community Resilience:** The experiences from 2021 underscored the need for enhancing community resilience and preparedness for future volcanic events.
+
+### **Conclusion**
+
+Volcanic eruptions in 2021 had profound impacts on the regional environments where they occurred. These impacts included atmospheric changes, ecological damage, human displacement, and economic losses. The events of 2021 emphasized the necessity for continued monitoring, research, and preparedness to mitigate the effects of volcanic activities on vulnerable regions.
+
+---
+
+### **Dynamic Changes on Earth's Surface**
+
+#### **Question:**
+*Consider the following:*
+
+1. **Electromagnetic radiation**
+2. **Geothermal energy**
+3. **Gravitational force**
+4. **Plate movements**
+5. **Rotation of the earth**
+6. **Revolution of the earth**
+
+*Which of the above are responsible for bringing dynamic changes on the surface of the earth?*
+
+**(a) 1, 2, 3 and 4 only**
+
+**(b) 1, 3, 5 and 6 only**
+
+**(c) 2, 4, 5 and 6 only**
+
+**(d) 1, 2, 3, 4, 5 and 6**
+
+#### **Explanation and Correct Answer:**
+
+To identify which factors contribute to dynamic changes on the Earth's surface, let's analyze each one:
+
+1. **Electromagnetic Radiation:**
+   - **Role:** Primarily from the Sun, it drives processes such as weather patterns, ocean currents, and the water cycle, which can indirectly influence geological processes like erosion.
+   - **Contribution:** Significant in surface processes but not directly altering the geological structure.
+
+2. **Geothermal Energy:**
+   - **Role:** Heat from the Earth’s interior drives plate tectonics and volcanic activity, contributing to the formation of mountains, earthquakes, and volcanic eruptions.
+   - **Contribution:** Major factor in dynamic geological changes.
+
+3. **Gravitational Force:**
+   - **Role:** Affects tides, influences erosion and sediment transport, and is crucial in shaping planetary structure.
+   - **Contribution:** Important in maintaining planetary formation and processes but does not directly cause surface dynamics like tectonics.
+
+4. **Plate Movements:**
+   - **Role:** Directly responsible for tectonic activity, leading to earthquakes, volcanic eruptions, and the creation of mountain ranges and ocean basins.
+   - **Contribution:** Critical in driving dynamic changes on the Earth’s surface.
+
+5. **Rotation of the Earth:**
+   - **Role:** Affects wind patterns, ocean currents, and the Coriolis effect, influencing weather and erosion.
+   - **Contribution:** Influences surface processes indirectly but does not cause tectonic movements.
+
+6. **Revolution of the Earth:**
+   - **Role:** Responsible for seasonal changes and variations in solar energy received, affecting climate patterns and indirectly impacting geological processes.
+   - **Contribution:** Affects surface processes indirectly but not a direct driver of geological changes.
+
+Based on the analysis:
+
+- **Electromagnetic radiation (1), geothermal energy (2), and plate movements (4)** directly contribute to dynamic changes on the Earth’s surface.
+- **Gravitational force (3)**, **rotation of the earth (5)**, and **revolution of the earth (6)** also play roles in surface dynamics, though more indirectly.
+
+Thus, the factors **responsible for bringing dynamic changes on the surface of the Earth** include **all the listed options**.
+
+**Correct Answer:** **(d) 1, 2, 3, 4, 5, and 6**
+
+### **Explanation:**
+
+All the mentioned factors contribute in different ways to the dynamic changes observed on the Earth's surface:
+
+- **Electromagnetic Radiation** affects weathering and climate.
+- **Geothermal Energy** drives tectonic and volcanic activities.
+- **Gravitational Force** influences tides and sediment transport.
+- **Plate Movements** are central to geological processes like earthquakes and mountain building.
+- **Rotation and Revolution of the Earth** impact climatic and environmental dynamics through the Coriolis effect and seasonal changes.
+
+Together, these forces contribute to the continuously changing nature of the Earth's surface.
+
+<br>
+
+# **Galaxy JADES-GS-z14-0: Insights from NASA’s James Webb Space Telescope**
+
+![image](https://github.com/Allan122/.C-A/assets/45638226/613c6285-5a3f-464a-8ca3-92aaca91695a)
+
+### From UPSC perspective, the following things are important:
+### Prelims level: JADES-GS-z14-0 Galaxy, JWST
+
+## **Why in the News?** 
+The James Webb Space Telescope (JWST), launched by NASA, has unveiled a groundbreaking find It has captured imagery of the universe’s earliest-known galaxy, revealing unexpected brightness and size given its formation during the universe’s infancy.
+
+
+## **James Webb Space Telescope (JWST)**
+- JWST is a joint venture between NASA, the European Space Agency (ESA) and the Canadian Space Agency (CSA) launched in December 2021.
+- It is an orbiting infrared observatory that will complement and extend the discoveries of the Hubble Space Telescope, with longer wavelength coverage and greatly improved sensitivity.
+- Webb was formerly known as the “Next Generation Space Telescope” (NGST) and it was renamed in 2002 after a former NASA administrator, James Webb.
+- It will be a large infrared telescope with an approximately 6.5-meter primary mirror.
+- JWST is positioned at the Earth-Sun L2 Lagrange point, 5 million km away.
+- It consists of a mirror, spanning 6.5 meters in diameter compared to Hubble’s 2.4 meters, as well as its specialized instruments optimized for infrared observations.
+
+## **Key Objectives:**
+- JWST observes deeper into the universe than Hubble.
+- Observes celestial objects from earlier epochs.
+- Enables the detection of light from the universe’s earliest stars, dating back over 13.5 billion years.
+
+## **About JADES-GS-z14-0 Galaxy** 
+- Named JADES-GS-z14-0, this galaxy was formed approximately 290 million years after the Big Bang.
+- Spanning about 1,700 light-years across, it consists of a mass equivalent to 500 million stars akin to our Sun.
+- Despite its ancient age, the galaxy is actively generating stars at a rapid pace, producing around 20 new stars annually.
+
+## **Scientific Insights:**
+- **Historical Context:** Previously, the earliest-known galaxy was dated to approximately 320 million years post-Big Bang, indicating the significance of this new discovery.
+- **Luminosity Theories:** While hypotheses suggest various explanations for the galaxy’s luminosity, including supermassive black holes or unusually bright stars, further research is required to validate these theories.
+
+<br>
+
+# PYQ:
+**[2012] Which of the following is/are cited by the scientists as evidence/evidence for the continued expansion of the universe?**
+
+**Detection of microwaves in space
+Observation of redshift phenomenon in space
+Movement of asteroids in space
+Occurrence of supernova explosions in space
+Select the correct answer using the codes given below:**
+
+(a) 1 and 2
+
+(b) 2 only
+
+(c) 1, 3 and 4
+
+(d) None of the above can be cited as evidence
+
+To determine the correct answer, 
+**let's analyze each statement to see if it provides evidence for the continued expansion of the universe:**
+
+### **1. Detection of microwaves in space**
+- **Explanation:** This refers to the Cosmic Microwave Background (CMB) radiation, which is the thermal remnant from the early universe after the Big Bang. The CMB is uniform and pervasive, filling the universe and providing evidence of its hot, dense origins. While this detection itself is more related to the evidence for the Big Bang rather than ongoing expansion, it supports the overall model of an expanding universe that began from a hot, dense state.
+
+### **2. Observation of redshift phenomenon in space**
+- **Explanation:** The redshift phenomenon occurs when light from distant galaxies shifts towards the red end of the spectrum. This is a direct indication that these galaxies are moving away from us, implying that the universe is expanding. This redshift is observed in the spectra of distant galaxies and is one of the primary pieces of evidence for the expansion of the universe.
+
+### **3. Movement of asteroids in space**
+- **Explanation:** The movement of asteroids within our solar system is governed by gravitational forces and does not provide evidence for the expansion of the universe. Their motion is related to local dynamics rather than the large-scale structure of the universe.
+
+### **4. Occurrence of supernova explosions in space**
+- **Explanation:** Supernova explosions provide information about the lifecycle of stars and are used as "standard candles" to measure distances in the universe. While they help in determining distances to far-off galaxies and support measurements that contribute to the understanding of the universe's expansion, their occurrence alone does not directly indicate expansion.
+
+### **Conclusion:**
+- **Evidence for continued expansion:** The **redshift phenomenon** (2) is direct evidence for the expansion of the universe.
+- **Supportive but indirect:** The **detection of microwaves** (1) in space provides background evidence supporting the Big Bang and the overall model of an expanding universe, though not direct evidence of ongoing expansion.
+
+Given this analysis, the correct answer is:
+
+**(a) 1 and 2**
+
+### **Summary:**
+
+- **Detection of microwaves in space:** Supports the Big Bang theory and the model of an expanding universe.
+- **Observation of redshift phenomenon in space:** Direct evidence for the ongoing expansion of the universe.
+- **Movement of asteroids in space:** Not related to evidence for the expansion of the universe.
+- **Occurrence of supernova explosions in space:** Helps measure distances and supports understanding of expansion but not direct evidence.
+
+### **References for Further Reading:**
+- **[Cosmic Microwave Background (CMB) | NASA](https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html)**
+- **[Hubble's Law and Redshift | NASA](https://www.nasa.gov/feature/goddard/redshift)**
+- **[The Role of Supernovae in Measuring the Expansion of the Universe | Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/science/cosmology-structure.html)**
+
+# **Date - 08/06/2024**
+
+## Remaining date 4
 
