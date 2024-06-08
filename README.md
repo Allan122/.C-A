@@ -2151,3 +2151,263 @@ This structured approach will provide a comprehensive answer to the UPSC Mains q
 
 <br>
 
+# WOMEN EMPOWERMENT ISSUES – JOBS,RESERVATION AND EDUCATION
+**Fewer women are being hired for leadership positions**
+
+### From UPSC perspective, the following things are important :
+### Mains level: Women Issues
+
+## Why in the news?
+Although women’s representation in the workforce has grown over the years “LinkedIn’s Economic Graph data”  indicates that progress has stalled since 2022 and declined in 2024.
+
+## What does the data show?
+- Representation of women in the workforce has increased over the years but progress has stalled since 2022 and declined in 2024. The promotion of women to senior and leadership roles has stagnated in recent years.
+- Sectors like healthcare, education, administrative, and support services have higher female representation in senior positions, while sectors like manufacturing, construction, oil, and gas have poor representation.
+
+**Representation of women in the overall workforce and in senior positions**
+![image](https://github.com/Allan122/.C-A/assets/45638226/f9c8a200-4373-46ef-a171-d8e965031cd5)
+
+**Entry and career progression of women** 
+![image](https://github.com/Allan122/.C-A/assets/45638226/d3005108-8630-4300-ad6c-74a18997c962)
+
+- **Oil, Gas, and Mining:** Among the lowest representation of women in leadership roles, at around 11%.
+- **Construction:** Very few women are represented, especially in senior roles.
+- **Utilities:** Women face significant barriers in advancing to leadership positions.
+- **Wholesale:** Low entry and career progression for women.
+- **Manufacturing:** Poor representation of women across all positions, including senior roles.
+- **Transportation:** Limited career progression opportunities for women.
+- **Real Estate:** Few women in leadership positions, with significant entry barriers.
+
+**About the accommodation and other services**
+![image](https://github.com/Allan122/.C-A/assets/45638226/53b80aa4-fc58-4ae4-8b53-b24c0507e893)
+
+- Representation of women in senior roles within the accommodation and food services sector falls between 15% and 20%.
+- This sector exhibits a moderate level of female representation compared to other industries.
+- While not the highest, it surpasses sectors like oil, gas, mining, construction, utilities, wholesale, manufacturing, transportation, and real estate, where women hold just 11%-14% of leadership positions.
+- The data suggests there’s still room for improvement in increasing the number of women in leadership roles within the accommodation and food services sector.
+- Efforts to improve gender diversity and inclusion should be continued and perhaps intensified in this sector, aligning with broader industry and societal goals for gender parity in the workforce.
+
+## **Way Forward**
+- Efforts by policymakers and business leaders are needed to tackle challenges faced by women in reaching leadership roles, focusing on “women-led development”.
+- Stricter enforcement of laws such as the Companies Act, 2013, which mandates women directors on company boards. Between April 2018 and December 2023, 507 companies were fined for non-compliance, with 90% being listed companies.
+
+<br>
+
+# Mains PYQ 
+**Q Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security of the rural poor in India”. Evaluate the role of the Self Help Groups in achieving the twin objectives of empowering women in rural India. (UPSC IAS/2020)**
+
+### **Introduction**
+
+Micro-finance, particularly through Self-Help Groups (SHGs), has been a vital tool in combating poverty in rural India. SHGs provide financial services to the economically disadvantaged, particularly women, fostering asset creation, income security, and empowerment. This approach aligns with the goal of enhancing socio-economic conditions for rural women, contributing significantly to their empowerment.
+
+### **Understanding Micro-Finance and SHGs**
+
+**Micro-Finance:** It refers to the provision of financial services like loans, savings, insurance, and credit to the poor who traditionally lack access to formal banking institutions.
+
+**Self-Help Groups (SHGs):** SHGs are small, informal groups of 10-20 individuals, primarily women, who come together to pool their savings and provide loans to members. These groups often receive external credit from banks and financial institutions, enhancing their capital.
+
+### **Role of SHGs in Empowering Women and Achieving Objectives**
+
+#### **1. Financial Inclusion and Economic Empowerment**
+
+**a. Access to Credit:**
+- **Impact:** SHGs provide women access to credit without collateral, enabling them to start micro-enterprises, invest in agriculture, or pursue other income-generating activities.
+- **Example:** Women in SHGs in Tamil Nadu used loans to set up tailoring units, which significantly increased their family income.
+
+**b. Savings and Investment:**
+- **Impact:** Regular savings by SHG members foster a habit of financial discipline and investment. It also provides a safety net in times of financial emergencies.
+- **Example:** SHGs in Andhra Pradesh encouraged women to save systematically, which led to investments in education and healthcare.
+
+**c. Asset Creation:**
+- **Impact:** Micro-loans enable women to acquire productive assets such as livestock, sewing machines, or agricultural tools, leading to enhanced economic stability and asset creation.
+- **Example:** In Kerala, women utilized SHG loans to buy milch cows, creating a steady source of income through dairy farming.
+
+#### **2. Social Empowerment**
+
+**a. Building Leadership and Decision-Making Skills:**
+- **Impact:** Participation in SHGs enhances women's leadership skills and confidence in decision-making, both within their households and in the community.
+- **Example:** SHG members in Maharashtra led community initiatives such as water conservation and local governance, showcasing their leadership abilities.
+
+**b. Educational and Health Outcomes:**
+- **Impact:** Increased income from SHG activities allows women to invest in their children's education and family health, leading to improved social outcomes.
+- **Example:** In Karnataka, women used SHG funds to pay for their children's school fees and healthcare, improving family well-being.
+
+**c. Reducing Dependence on Moneylenders:**
+- **Impact:** SHGs provide a reliable source of credit, reducing the reliance on high-interest loans from moneylenders and freeing women from debt cycles.
+- **Example:** Women in Bihar reported a decrease in indebtedness to local moneylenders after joining SHGs, alleviating financial pressure.
+
+**d. Enhancing Social Networks:**
+- **Impact:** SHGs facilitate the formation of strong social networks among women, providing mutual support, knowledge sharing, and collective action.
+- **Example:** In Rajasthan, SHGs organized training programs on sustainable agricultural practices, benefiting the entire community.
+
+#### **3. Role in Income Security**
+
+**a. Diversification of Income Sources:**
+- **Impact:** SHGs promote income diversification by funding various micro-enterprises, reducing the vulnerability to economic shocks.
+- **Example:** Women in Gujarat started multiple ventures such as handicrafts, retail shops, and food processing units, ensuring diverse income streams.
+
+**b. Financial Literacy and Skill Development:**
+- **Impact:** SHGs provide training in financial literacy, business management, and skills development, enhancing women’s ability to manage their enterprises effectively.
+- **Example:** SHG members in Odisha received training in poultry farming, leading to increased productivity and higher incomes.
+
+**c. Collective Bargaining Power:**
+- **Impact:** SHGs enhance women's collective bargaining power in local markets and community affairs, allowing them to secure better prices for their products and services.
+- **Example:** SHGs in West Bengal negotiated better rates for their agricultural produce by collectively selling their goods in bulk.
+
+### **Challenges Faced by SHGs**
+
+**a. Limited Financial Literacy:**
+- Some SHG members lack adequate financial literacy, impacting their ability to manage loans and savings effectively.
+
+**b. Access to Markets:**
+- Limited market access can restrict the ability of SHG members to sell their products at profitable prices.
+
+**c. Sustainability Issues:**
+- Some SHGs face challenges in sustaining their activities due to inadequate support, lack of training, or poor management.
+
+**d. Overlapping Functions:**
+- Coordination issues between various micro-finance institutions and SHGs can lead to overlapping functions and inefficiencies.
+
+### **Conclusion**
+
+Self-Help Groups (SHGs) have significantly contributed to empowering women in rural India by providing access to credit, promoting savings, and enabling asset creation. They play a crucial role in enhancing the socio-economic conditions of rural women by fostering income security, social empowerment, and financial inclusion. 
+
+While SHGs have been successful in achieving these objectives, challenges such as limited financial literacy, market access, and sustainability need to be addressed. Strengthening SHGs through better training, market linkages, and financial support can further enhance their impact, making them an effective anti-poverty strategy and a tool for women’s empowerment in rural India.
+
+### **Further Reading and References**
+- **NABARD Reports** on SHG-Bank Linkage Programme.
+- **"Women’s Empowerment through Self-Help Groups"** by E. Kalpana and M. S. Santha.
+- **Government Schemes** such as Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM).
+
+### **Sample Case Studies**
+
+**1. Tamil Nadu:**
+- **Initiative:** SHGs focusing on small-scale businesses like tailoring.
+- **Outcome:** Increased family income, improved standards of living.
+
+**2. Kerala:**
+- **Initiative:** SHG loans for dairy farming.
+- **Outcome:** Regular income through dairy, better nutritional standards for families.
+
+**3. Andhra Pradesh:**
+- **Initiative:** Systematic savings programs.
+- **Outcome:** Enhanced financial security, investment in education and healthcare.
+
+By incorporating these elements, the answer provides a comprehensive evaluation of the role of SHGs in empowering women and achieving the objectives of asset creation and income security for the rural poor in India.
+
+<br>
+
+# What Grade of Coal does India Produce?
+
+## Coal Gradation in India
+- These terms are relative and depend on the coal’s Gross Calorific Value (GCV denoted in kilo-calories per kg), which indicates its energy generation potential. Higher GCV denotes better quality coal.
+- High-Grade (GCV > 7,000 kcal/kg) to
+- Low-Grade (GCV 2,200-2,500 kcal/kg).
+Overall there are 17 grades of coal according to the Coal Ministry‘s classification.
+
+## Characteristics of Indian Coal:
+- Historically, Indian coal is high in ash content and low in calorific value compared to imports.
+- Higher ash content leads to increased emissions of particulate matter and pollutants.
+
+## Clean Coal Technologies:
+- **Coal Washing:** On-site processes such as coal washing are employed to reduce ash and moisture content, thereby improving energy efficiency and reducing environmental impact.
+- **Coal Gasification:** Another approach is coal gasification, where coal is converted into syngas through an integrated gasification combined cycle (IGCC). This process enhances efficiency and reduces emissions compared to traditional coal-burning methods.
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Coal Gradation, Coal reserves in India, Imports etc
+![image](https://github.com/Allan122/.C-A/assets/45638226/ece4ffc4-e146-4264-aa13-54ed096686c5)
+
+**Why in the News?**
+- A report by the Organized Crime and Corruption Reporting Project suggests Adani Group claimed ‘low grade’ coal imported from Indonesia to be ‘high quality’ coal.
+- They inflated its value and sold it to Tamil Nadu’s power generation company, TANGEDCO (Tamil Nadu Generation and Distribution Company).
+
+**Coal Reserves in India**
+- India boasts the fourth-largest coal reserves globally, totaling nearly 319.02 billion tonnes.
+
+- Geological Distribution: These reserves are primarily located in:
+**Older Gondwana Formations:** in Peninsular India, about 250 million years old.
+**Younger Tertiary Formations:** in the North-Eastern region, 15 to 60 million years old.
+**Gondwana coal constitutes 99% of India’s coal production.**
+The **top 5 States** in terms of total coal reserves in India are: **Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh.**
+
+**Types of Coal found:**
+- **Anthracite:** This highest-grade coal contains 80-95% carbon and is found in smaller quantities in regions of Jammu and Kashmir.
+- **Bituminous:** A medium-grade coal with 60 to 80% carbon content, it is abundant in Jharkhand, Odisha, West Bengal, Chhattisgarh, and Madhya Pradesh.
+- **Lignite:** The lowest-grade coal, with 40 to 55% carbon content, is found in regions of Rajasthan, Tamil Nadu, and Jammu & Kashmir.
+
+**Status of Coal in India**
+- In the fiscal year 2023-24, India’s coal production peaked at 997 million tonnes, primarily sourced from state-owned Coal India Ltd and its subsidiaries. Coking coal accounted for 58 million tonnes.
+- During the first quarter of 2024, renewable energy constituted 71.5% of India’s unprecedented 13.6 GW power generation capacity addition, signalling a notable departure from reliance on coal.
+
+**Coal Import Trends:**
+- Reduction in Share: The share of coal imports in India’s total coal consumption decreased to 21% from April 2023 to January 2024, down from 22.48% in the corresponding period of the previous year.
+- Blending and Power Plant Imports: While there was a significant reduction of 36.69% in coal imports for blending by thermal power plants, imports by coal-based power plants surged by 94.21% during the same period.
+
+## **Reasons for Coal Imports:** 
+**Quality Constraints:** The scarcity of good quality coking coal, essential for steelmaking, necessitates coal imports to meet industrial demands.
+**Rising Energy Demand:** Coal remains a vital component of India’s energy mix, prompting the need for imports to fulfil growing energy requirements.
+**Infrastructure Challenges:** Challenges such as geological constraints, land acquisition issues, and environmental regulations impede domestic coal production
+**Quality and Cost Considerations:** Importing coal can offer cost advantages and access to better-quality coal compared to domestic sources
+
+<br>
+
+# PYQ:
+**[2020] Consider the following statements:**
+
+**Coal ash contains arsenic, lead and mercury.
+Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment
+High ash content is observed in Indian coal.
+Which of the statements given above is/ are correct?**
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 3 only
+
+(d) 1, 2 and 3
+
+Let's evaluate each statement given in the question to determine which ones are correct:
+
+**Statement 1: Coal ash contains arsenic, lead, and mercury.**
+
+- **True.** Coal ash, a by-product of coal combustion in power plants, typically contains a variety of toxic heavy metals, including arsenic, lead, and mercury, among others. These elements are found naturally in coal and become concentrated in the ash after combustion.
+
+**Statement 2: Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.**
+
+- **True.** Coal-fired power plants are significant sources of air pollutants, including sulphur dioxide (SO₂) and nitrogen oxides (NOₓ). These emissions contribute to acid rain, smog, and various respiratory problems in humans. The combustion of coal releases these pollutants, and controlling them is a major environmental challenge.
+
+**Statement 3: High ash content is observed in Indian coal.**
+
+- **True.** Indian coal is known for its high ash content compared to coal from other countries. The high ash content in Indian coal leads to lower calorific value and poses challenges in terms of handling and disposal of ash, as well as reduced efficiency in power generation.
+
+**Conclusion:**
+All three statements are correct. 
+
+Thus, the correct answer is:
+
+**(d) 1, 2, and 3**
+
+### **Detailed Explanation:**
+
+**1. Coal Ash and Heavy Metals:**
+Coal ash, which includes fly ash and bottom ash, is the residual by-product after coal combustion. It contains various toxic heavy metals like arsenic, lead, and mercury. These metals can pose serious environmental and health risks if not managed properly, leading to contamination of air, soil, and water.
+
+**2. Emissions from Coal-Fired Power Plants:**
+Coal-fired power plants emit substantial amounts of sulphur dioxide (SO₂) and nitrogen oxides (NOₓ), which are primary pollutants responsible for air pollution. SO₂ can lead to acid rain and respiratory issues, while NOₓ contributes to the formation of ground-level ozone and smog, exacerbating respiratory diseases.
+
+**3. Ash Content in Indian Coal:**
+Indian coal is characterized by a high ash content, which can range from 30% to 50% by weight. The high ash content results in lower calorific value, meaning more coal is required to produce the same amount of energy compared to coal with lower ash content. This also increases the volume of ash that must be handled and disposed of, posing environmental management challenges.
+
+### **References for Further Reading:**
+- **[Coal Ash Basics | US EPA](https://www.epa.gov/coalash/coal-ash-basics)**
+- **[Air Emissions from Coal-Fired Power Plants | EIA](https://www.eia.gov/todayinenergy/detail.php?id=29352)**
+- **[Coal Quality and Coal Ash Characteristics | Central Pollution Control Board](https://cpcb.nic.in/uploads/ProjectReports/Coal_Quality_Coal_Ash_Characteristics.pdf)**
+
+<br>
+
+# Protecting Mangroves in Tamil Nadu 
+
+### From UPSC perspective, the following things are important :
+### Prelims level: Mangroves in India
+
