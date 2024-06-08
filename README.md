@@ -2773,9 +2773,9 @@ Given this analysis, the correct answer is:
 - **Occurrence of supernova explosions in space:** Helps measure distances and supports understanding of expansion but not direct evidence.
 
 ### **References for Further Reading:**
-- **[Cosmic Microwave Background (CMB) | NASA](https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html)**
-- **[Hubble's Law and Redshift | NASA](https://www.nasa.gov/feature/goddard/redshift)**
-- **[The Role of Supernovae in Measuring the Expansion of the Universe | Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/science/cosmology-structure.html)**
+**[Cosmic Microwave Background (CMB) | NASA](https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html)**
+**[Hubble's Law and Redshift | NASA](https://www.nasa.gov/feature/goddard/redshift)**
+**[The Role of Supernovae in Measuring the Expansion of the Universe | Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/science/cosmology-structure.html)**
 
 # **Date - 08/06/2024**
 
