@@ -2781,8 +2781,6 @@ Given this analysis, the correct answer is:
 
 # **Date - 21/06/2024**
 
-## Remaining date 4
-
 # **Q:** Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.
 
 **Ans:**
@@ -2836,6 +2834,8 @@ The goal of achieving ‘Health for All’ in India is rooted in providing equit
 - **Sustainability**: Ensuring long-term funding and support is essential for sustaining community-level healthcare interventions.
 
 In conclusion, local community-level healthcare interventions are indispensable for achieving ‘Health for All’ in India. They enhance accessibility, cultural relevance, cost-effectiveness, and community engagement, forming the foundation of a responsive and inclusive healthcare system. By focusing on the local level, India can effectively address the diverse health needs of its population and move closer to the goal of universal health coverage.
+
+---
 
 # **Q:** Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.
 
@@ -2897,10 +2897,14 @@ The Government of India has significantly transformed its approach to disaster m
 
 In conclusion, India’s shift from a reactive to a proactive disaster management approach involves comprehensive planning, technology integration, community engagement, and structural reforms. These measures aim to build a resilient society capable of mitigating the impacts of disasters and ensuring quick recovery.
 
+---
+
 ## Back2Basics: Rating Agency
 - A rating agency is a company that assesses the financial strength of companies and government entities, especially their ability to meet principal and interest payments on their debts.
 - **Fitch Ratings, Moody’s Investors Service and Standard & Poor’s (S&P)** are the big three international credit rating agencies controlling approximately 95% of the global rating business.
 - In India, six credit rating agencies are registered under the Securities and Exchange Board of India (SEBI): **CRISIL, ICRA, CARE, SMERA, Fitch India and Brickwork Ratings.**
+
+---
 
 ## What does the data say?
 - **India’s GDP growth for 2023-24 is 8.2%**, exceeding market expectations and surpassing the **previous year’s growth of 7%.**
@@ -2908,6 +2912,7 @@ In conclusion, India’s shift from a reactive to a proactive disaster managemen
 - **Notable divergence of 1 percentage point between GDP and GVA growth in 2023-24**, mainly due to increased net taxes.
 - Sectoral analysis reveals mixed performance, with manufacturing and construction showing strong growth, while agriculture remains subdued.
 - Expenditure-side breakdown highlights a slower growth rate in private consumption but healthy growth in investment, led mainly by government spending.
+
 
 # **Q:** Explain the difference between the computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.
 
@@ -2979,6 +2984,7 @@ In 2015, India made significant changes to its Gross Domestic Product (GDP) calc
 
 The shift in India's GDP computation methodology in 2015 was a crucial step towards modernizing economic measurement and aligning with global standards. By updating the base year, data sources, and sectoral classifications, the new methodology provides a more accurate, comprehensive, and timely picture of India's economic performance. This transformation enhances the credibility of GDP estimates and aids policymakers in making informed decisions based on realistic economic indicators.
 
+---
 
 # **Q:** The problem of international liquidity is related to the non-availability of:
 
@@ -3000,23 +3006,23 @@ The shift in India's GDP computation methodology in 2015 was a crucial step towa
 
 Here’s a breakdown of why option (c) is correct:
 
-### **1. **Hard Currencies in International Liquidity**
+### **1. Hard Currencies in International Liquidity**
 
 - **Definition**: Hard currencies are stable, widely accepted currencies in international trade and finance. They include currencies like the US dollar (USD), Euro (EUR), Japanese yen (JPY), and British pound (GBP).
 - **Role in Trade and Finance**: These currencies are crucial for international transactions, reserve holdings by central banks, and debt settlements. Countries need sufficient hard currency reserves to maintain stability in their balance of payments and to handle international obligations.
 
-### **2. **Importance of Hard Currencies**
+### **2. Importance of Hard Currencies**
 
 - **Settling Payments**: Nations use hard currencies to settle international payments for imports, debt repayments, and investment flows.
 - **Maintaining Exchange Rate Stability**: Countries with sufficient reserves can stabilize their exchange rates against global fluctuations by intervening in foreign exchange markets.
 - **Crisis Management**: Adequate reserves in hard currencies allow countries to manage economic shocks, avoid defaults, and maintain confidence in their financial systems.
 
-### **3. **Historical Context**
+### **3. Historical Context**
 
 - **Bretton Woods System**: Historically, the Bretton Woods system relied on gold and the US dollar as the backbone of international liquidity. After the collapse of the system, the focus shifted primarily to the US dollar and other hard currencies.
 - **Special Drawing Rights (SDRs)**: The International Monetary Fund (IMF) introduced SDRs as a supplementary international reserve asset to address global liquidity needs, complementing the use of hard currencies.
 
-### **4. **Alternative Options Analysis**
+### **4. Alternative Options Analysis**
 
 - **(a) Goods and services**: While essential for trade, the issue of international liquidity specifically pertains to financial resources, not physical goods or services.
 - **(b) Gold and silver**: Although historically significant, modern international liquidity focuses on hard currencies rather than precious metals.
@@ -3024,6 +3030,7 @@ Here’s a breakdown of why option (c) is correct:
 
 In conclusion, international liquidity deals with the availability of foreign exchange reserves in hard currencies, crucial for managing international payments, exchange rate stability, and financial crises. Hence, option **(c)**, "Dollars and other hard currencies," is the correct answer.
 
+---
 
 # What are Gold Reserves?
 - A gold reserve is the gold held by a country’s central bank, acting as a backup for financial promises and a store of value.
